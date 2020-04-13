@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem18/IsSubStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem21/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/pronblem19/MirrorTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/pronblem19/MirrorTree2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/pronblem19/MirrorTree3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +46,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
@@ -190,10 +195,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1487" height="290" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586365747601" />
-    <state x="157" y="0" key="SettingsEditor" timestamp="1586079467287">
+    <state x="157" y="0" key="SettingsEditor" timestamp="1586675125541">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="157" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586079467287" />
+    <state x="157" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586675125541" />
     <state x="395" y="201" key="com.intellij.ide.util.TipDialog" timestamp="1586570551503">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -202,10 +207,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="341" y="183" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1586656219206" />
-    <state x="347" y="0" width="840" height="822" key="search.everywhere.popup" timestamp="1586355874496">
+    <state x="347" y="0" width="840" height="822" key="search.everywhere.popup" timestamp="1586660332037">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="347" y="0" width="840" height="822" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586355874496" />
+    <state x="347" y="0" width="840" height="822" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586660332037" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
