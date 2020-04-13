@@ -1,4 +1,4 @@
-package edu.csu.pronblem19;
+package edu.csu.problem19;
 
 import edu.csu.TreeNode;
 

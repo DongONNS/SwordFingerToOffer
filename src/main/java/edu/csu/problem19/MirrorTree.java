@@ -1,4 +1,4 @@
-package edu.csu.pronblem19;
+package edu.csu.problem19;
 
 import edu.csu.TreeNode;
 //输入一棵树，然后输出这棵树的镜像;

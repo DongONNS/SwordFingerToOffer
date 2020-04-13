@@ -1,4 +1,4 @@
-package edu.csu.pronblem19;
+package edu.csu.problem19;
 
 import edu.csu.TreeNode;
 //同样是镜像树，但是感觉这样写更符合递归，递归中我们只需要控制好当前的过程和递归的终止条件

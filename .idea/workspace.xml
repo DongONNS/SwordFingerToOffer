@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem21/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/pronblem19/MirrorTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/pronblem19/MirrorTree2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/pronblem19/MirrorTree3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem22/ValidateStackSequences.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/pronblem19/MirrorTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem19/MirrorTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/pronblem19/MirrorTree2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem19/MirrorTree2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/pronblem19/MirrorTree3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem19/MirrorTree3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
