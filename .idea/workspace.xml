@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem23/LevelOrder3Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem24/VerifyPostOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem25/PathSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
