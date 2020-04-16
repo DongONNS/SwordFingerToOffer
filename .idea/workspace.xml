@@ -2,8 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem27/TreeToDoubleList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem28/StringCombination.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem/MyPow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/problem/MyPow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem10/HammingWeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/problem10/HammingWeight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem10/HammingWeight2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/problem10/HammingWeight2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem10/HammingWeight3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/problem10/HammingWeight3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem2/AmericanPresident$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem2/AmericanPresident$Nested.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem2/AmericanPresident.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem2/FrenchPresident$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem2/FrenchPresident$Nested.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem2/FrenchPresident.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem2/President.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem2/SingleTon1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem2/SingleTon2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem2/SingleTon3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem2/SingleTon4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem2/SingleTon4$SingleTonHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem2/SingleTon4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem3/FindNumberIn2DArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/problem3/FindNumberIn2DArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem3/FindNumberIn2DArray2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/problem3/FindNumberIn2DArray2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem4/ReplaceSpace.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/problem4/ReplaceSpace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem5/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/problem5/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem5/ReversePrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/problem5/ReversePrint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem6/BuildTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/problem6/BuildTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem6/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/problem6/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem7/CQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/problem7/CQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem8/MinNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/problem8/MinNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem8/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/problem8/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem9/Fibonacci_Fast.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/problem9/Fibonacci_Fast.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem9/Fibonacci_Slow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/problem9/Fibonacci_Slow.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +83,7 @@
       <recent name="edu.csu.problem2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyPow">
+  <component name="RunManager" selected="Application.StringCombination">
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.csu.problem9.Fibonacci" />
       <module name="SwordFingerOffer" />
@@ -107,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.problem8.QuickSort" />
+    <configuration name="StringCombination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.problem28.StringCombination" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.csu.problem8.*" />
+          <option name="PATTERN" value="edu.csu.problem28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringCombination" />
         <item itemvalue="Application.MyPow" />
         <item itemvalue="Application.HammingWeight3" />
         <item itemvalue="Application.Fibonacci_Fast" />
         <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -160,46 +189,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="115" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586079462742" />
-    <state width="1487" height="290" key="GridCell.Tab.0.bottom" timestamp="1586365747601">
+    <state width="1487" height="290" key="GridCell.Tab.0.bottom" timestamp="1587010338147">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1487" height="290" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586365747601" />
-    <state width="1487" height="290" key="GridCell.Tab.0.center" timestamp="1586365747600">
+    <state width="1487" height="290" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587010338147" />
+    <state width="1487" height="290" key="GridCell.Tab.0.center" timestamp="1587010338147">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1487" height="290" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586365747600" />
-    <state width="1487" height="290" key="GridCell.Tab.0.left" timestamp="1586365747600">
+    <state width="1487" height="290" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587010338147" />
+    <state width="1487" height="290" key="GridCell.Tab.0.left" timestamp="1587010338147">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1487" height="290" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586365747600" />
-    <state width="1487" height="290" key="GridCell.Tab.0.right" timestamp="1586365747601">
+    <state width="1487" height="290" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587010338147" />
+    <state width="1487" height="290" key="GridCell.Tab.0.right" timestamp="1587010338147">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1487" height="290" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586365747601" />
-    <state width="1487" height="290" key="GridCell.Tab.1.bottom" timestamp="1586365747601">
+    <state width="1487" height="290" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587010338147" />
+    <state width="1487" height="290" key="GridCell.Tab.1.bottom" timestamp="1587010338353">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1487" height="290" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586365747601" />
-    <state width="1487" height="290" key="GridCell.Tab.1.center" timestamp="1586365747601">
+    <state width="1487" height="290" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587010338353" />
+    <state width="1487" height="290" key="GridCell.Tab.1.center" timestamp="1587010338353">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1487" height="290" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586365747601" />
-    <state width="1487" height="290" key="GridCell.Tab.1.left" timestamp="1586365747601">
+    <state width="1487" height="290" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587010338353" />
+    <state width="1487" height="290" key="GridCell.Tab.1.left" timestamp="1587010338353">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1487" height="290" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586365747601" />
-    <state width="1487" height="290" key="GridCell.Tab.1.right" timestamp="1586365747601">
+    <state width="1487" height="290" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587010338353" />
+    <state width="1487" height="290" key="GridCell.Tab.1.right" timestamp="1587010338353">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1487" height="290" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586365747601" />
+    <state width="1487" height="290" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587010338353" />
     <state x="157" y="0" key="SettingsEditor" timestamp="1586675125541">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="157" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586675125541" />
-    <state x="395" y="201" key="com.intellij.ide.util.TipDialog" timestamp="1586831776467">
+    <state x="395" y="201" key="com.intellij.ide.util.TipDialog" timestamp="1587008170421">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="395" y="201" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586831776467" />
+    <state x="395" y="201" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587008170421" />
     <state x="341" y="183" key="run.anything.popup" timestamp="1586656219206">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
