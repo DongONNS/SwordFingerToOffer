@@ -1,4 +1,4 @@
-package edu.csu.problem30.problem31;
+package edu.csu.problem31;
 
 public class MaxSubArray {
     public int maxSubArray(int[] nums) {
@@ -11,5 +11,6 @@ public class MaxSubArray {
             if(sum > max) max = sum;
         }
         return max;
+
     }
 }
