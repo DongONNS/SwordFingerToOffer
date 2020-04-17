@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem29/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem29/MajorityElement2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem29/MajorityElement3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem30/GetLeastNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem29/MajorityElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem29/MajorityElement2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem29/MajorityElement3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem29/MajorityElement3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +58,13 @@
       <recent name="edu.csu.problem2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Permutation2">
-    <configuration name="Fibonacci_Fast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.problem9.Fibonacci_Fast" />
+  <component name="RunManager" selected="Application.GetLeastNumbers">
+    <configuration name="GetLeastNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.problem30.GetLeastNumbers" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.csu.problem9.*" />
+          <option name="PATTERN" value="edu.csu.problem30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GetLeastNumbers" />
         <item itemvalue="Application.Permutation2" />
         <item itemvalue="Application.StringCombination" />
         <item itemvalue="Application.MyPow" />
         <item itemvalue="Application.HammingWeight3" />
-        <item itemvalue="Application.Fibonacci_Fast" />
       </list>
     </recent_temporary>
   </component>
@@ -163,38 +164,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="115" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586079462742" />
-    <state width="1487" height="255" key="GridCell.Tab.0.bottom" timestamp="1587016114064">
+    <state width="1487" height="247" key="GridCell.Tab.0.bottom" timestamp="1587092996446">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1487" height="255" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587016114064" />
-    <state width="1487" height="255" key="GridCell.Tab.0.center" timestamp="1587016114064">
+    <state width="1487" height="247" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587092996446" />
+    <state width="1487" height="247" key="GridCell.Tab.0.center" timestamp="1587092996446">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1487" height="255" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587016114064" />
-    <state width="1487" height="255" key="GridCell.Tab.0.left" timestamp="1587016114064">
+    <state width="1487" height="247" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587092996446" />
+    <state width="1487" height="247" key="GridCell.Tab.0.left" timestamp="1587092996446">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1487" height="255" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587016114064" />
-    <state width="1487" height="255" key="GridCell.Tab.0.right" timestamp="1587016114064">
+    <state width="1487" height="247" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587092996446" />
+    <state width="1487" height="247" key="GridCell.Tab.0.right" timestamp="1587092996446">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1487" height="255" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587016114064" />
-    <state width="1487" height="255" key="GridCell.Tab.1.bottom" timestamp="1587016114064">
+    <state width="1487" height="247" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587092996446" />
+    <state width="1487" height="247" key="GridCell.Tab.1.bottom" timestamp="1587092996447">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1487" height="255" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587016114064" />
-    <state width="1487" height="255" key="GridCell.Tab.1.center" timestamp="1587016114064">
+    <state width="1487" height="247" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587092996447" />
+    <state width="1487" height="247" key="GridCell.Tab.1.center" timestamp="1587092996446">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1487" height="255" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587016114064" />
-    <state width="1487" height="255" key="GridCell.Tab.1.left" timestamp="1587016114064">
+    <state width="1487" height="247" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587092996446" />
+    <state width="1487" height="247" key="GridCell.Tab.1.left" timestamp="1587092996446">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1487" height="255" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587016114064" />
-    <state width="1487" height="255" key="GridCell.Tab.1.right" timestamp="1587016114064">
+    <state width="1487" height="247" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587092996446" />
+    <state width="1487" height="247" key="GridCell.Tab.1.right" timestamp="1587092996447">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1487" height="255" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587016114064" />
+    <state width="1487" height="247" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587092996447" />
     <state x="157" y="0" key="SettingsEditor" timestamp="1586675125541">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -234,6 +235,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/problem28/Permutation2.java</url>
           <line>8</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/problem30/GetLeastNumbers.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/problem28/StringCombination.java</url>

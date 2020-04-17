@@ -1,10 +1,14 @@
 package edu.csu.problem29;
+
+import java.util.Arrays;
+
 /*
     找出数组中出现次数超过数组长度一半的数;
     摩尔投票法
  */
 public class MajorityElement3 {
     public int majorityElement(int[] nums) {
+        Arrays.sort(nums);
         int vote = 0,x = 0;
         for(int num : nums){
             if (vote == 0) x = num;
