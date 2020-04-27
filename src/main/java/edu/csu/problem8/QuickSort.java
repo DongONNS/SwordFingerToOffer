@@ -1,7 +1,5 @@
 package edu.csu.problem8;
 
-import com.sun.scenario.effect.impl.sw.java.JSWColorAdjustPeer;
-
 import java.util.Arrays;
 
 public class QuickSort {
