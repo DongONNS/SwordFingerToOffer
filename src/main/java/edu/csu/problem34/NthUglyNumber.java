@@ -1,6 +1,6 @@
-package edu.csu;
+package edu.csu.problem34;
 
-public class problem34 {
+public class NthUglyNumber {
     public int nthUglyNumber(int n) {
         int a = 0, b = 0, c = 0;
         int[] dp = new int[n];
