@@ -7,6 +7,7 @@ public class MaxDepth {
         if (root == null) return 0;
         int leftLen = maxDepth(root.left);
         int rightLen = maxDepth(root.right);
+        
         return Math.max(leftLen,rightLen)+1;
     }
 }

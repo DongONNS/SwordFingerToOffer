@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="" />
+    <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem41/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwordFingerOffer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem39/MaxDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem39/MaxDepth.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,8 +45,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../spring学习笔记/spring_day01" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -54,6 +62,18 @@
       <recent name="edu.csu.problem10" />
       <recent name="edu.csu.problem2" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Application.SingleNumbers">
     <configuration name="GetLeastNumbers2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -141,8 +161,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586079423383</updated>
+      <workItem from="1589211101914" duration="712000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="261" y="0" key="#Auto_Import" timestamp="1586175165620">
@@ -157,10 +192,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="320" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1586082523451" />
-    <state x="499" y="115" key="FileChooserDialogImpl" timestamp="1588816736609">
+    <state x="499" y="115" key="FileChooserDialogImpl" timestamp="1589189557561">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="115" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588816736609" />
+    <state x="499" y="115" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589189557561" />
     <state width="1487" height="260" key="GridCell.Tab.0.bottom" timestamp="1588953524682">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -197,10 +232,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="157" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586675125541" />
-    <state x="395" y="201" key="com.intellij.ide.util.TipDialog" timestamp="1588816707424">
+    <state x="395" y="201" key="com.intellij.ide.util.TipDialog" timestamp="1589189429583">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="395" y="201" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588816707424" />
+    <state x="395" y="201" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589189429583" />
+    <state x="66" y="51" key="new project wizard" timestamp="1589189644757">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="66" y="51" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1589189644757" />
     <state x="341" y="183" key="run.anything.popup" timestamp="1586656219206">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
