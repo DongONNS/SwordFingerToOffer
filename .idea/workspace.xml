@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem44/isStraight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem44/IsStraight2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem43/Ratio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem43/Ratio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem43/Ratio.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/problem43/Ratio.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -169,7 +167,7 @@
       <updated>1586079423383</updated>
       <workItem from="1589211101914" duration="1762000" />
       <workItem from="1589298649358" duration="1119000" />
-      <workItem from="1589375808268" duration="4841000" />
+      <workItem from="1589375808268" duration="6169000" />
     </task>
     <servers />
   </component>
