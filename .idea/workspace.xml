@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem42/ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem43/Ratio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/SwordFingerOffer.kotlin_module" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,20 +80,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SingleNumbers">
-    <configuration name="GetLeastNumbers2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.problem30.GetLeastNumbers2" />
-      <module name="SwordFingerOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.csu.problem30.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ratio">
     <configuration name="MinNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.csu.problem33.MinNumber" />
       <module name="SwordFingerOffer" />
@@ -112,6 +100,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="edu.csu.problem33.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ratio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.problem43.Ratio" />
+      <module name="SwordFingerOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.csu.problem43.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ratio" />
         <item itemvalue="Application.SingleNumbers" />
         <item itemvalue="Application.firstUniqueChar" />
         <item itemvalue="Application.MinNumber2" />
         <item itemvalue="Application.MinNumber" />
-        <item itemvalue="Application.GetLeastNumbers2" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +167,8 @@
       <option name="presentableId" value="Default" />
       <updated>1586079423383</updated>
       <workItem from="1589211101914" duration="1762000" />
-      <workItem from="1589298649358" duration="286000" />
+      <workItem from="1589298649358" duration="1119000" />
+      <workItem from="1589375808268" duration="1340000" />
     </task>
     <servers />
   </component>
