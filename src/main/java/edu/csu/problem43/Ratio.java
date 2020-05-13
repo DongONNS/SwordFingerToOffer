@@ -9,8 +9,7 @@ public class Ratio {
     }
 
     public static double[] twoSum(int n) {
-        if(n==0)
-            return new double[0];
+        if(n==0) return new double[0];
         double[] dp=new double[6*n+1];
         double[] ans=new double[5*n+1];
         double all=Math.pow(6,n);
