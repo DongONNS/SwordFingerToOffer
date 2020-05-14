@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem44/IsStraight2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem49/StrToInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/problem50/LowestCommonAncestor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem44/isStraight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/problem44/isStraight.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,20 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.isStraight">
-    <configuration name="MinNumber2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.problem33.MinNumber2" />
-      <module name="SwordFingerOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.csu.problem33.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StrToInt">
     <configuration name="Ratio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.csu.problem43.Ratio" />
       <module name="SwordFingerOffer" />
@@ -112,6 +101,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="edu.csu.problem38.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.problem49.StrToInt" />
+      <module name="SwordFingerOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.csu.problem49.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StrToInt" />
         <item itemvalue="Application.isStraight" />
         <item itemvalue="Application.Ratio" />
         <item itemvalue="Application.SingleNumbers" />
         <item itemvalue="Application.firstUniqueChar" />
-        <item itemvalue="Application.MinNumber2" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +169,8 @@
       <updated>1586079423383</updated>
       <workItem from="1589211101914" duration="1762000" />
       <workItem from="1589298649358" duration="1119000" />
-      <workItem from="1589375808268" duration="6169000" />
+      <workItem from="1589375808268" duration="7085000" />
+      <workItem from="1589441835879" duration="2824000" />
     </task>
     <servers />
   </component>
@@ -304,6 +307,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/problem44/isStraight.java</url>
           <line>9</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/problem49/StrToInt.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/problem28/StringCombination.java</url>
