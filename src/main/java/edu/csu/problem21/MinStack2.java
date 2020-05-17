@@ -5,7 +5,7 @@ import java.util.Stack;
 public class MinStack2 {
     private Stack<Integer> stack;
     private int min;
-    /** initialize your data structure here. */
+    //初始化数据结构
     public MinStack2() {
         stack = new Stack();
         min = Integer.MAX_VALUE;
@@ -20,7 +20,7 @@ public class MinStack2 {
     }
 
     public void pop() {
-        if(stack.pop() == min){//如果取出来的是当前min，就将压在它低下的前一个min出栈
+        if(stack.pop() == min){//如果取出来的是当前min，就将压在它底下下的前一个min出栈
             min = stack.pop();
         }
     }
