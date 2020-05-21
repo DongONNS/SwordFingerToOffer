@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/MinDistance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,7 +79,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaxSlidingWindow">
+  <component name="RunManager" selected="Application.MinDistance">
     <configuration name="MaxSlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.csu.stack.MaxSlidingWindow" />
       <module name="SwordFingerOffer" />
@@ -92,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ratio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.problem43.Ratio" />
+    <configuration name="MinDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.DynamicPlanning.MinDistance" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.csu.problem43.*" />
+          <option name="PATTERN" value="edu.csu.DynamicPlanning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.problem38.SingleNumbers" />
+    <configuration name="Ratio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.problem43.Ratio" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.csu.problem38.*" />
+          <option name="PATTERN" value="edu.csu.problem43.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinDistance" />
         <item itemvalue="Application.MaxSlidingWindow" />
         <item itemvalue="Application.StrToInt" />
         <item itemvalue="Application.isStraight" />
         <item itemvalue="Application.Ratio" />
-        <item itemvalue="Application.SingleNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +171,7 @@
       <workItem from="1589441835879" duration="4357000" />
       <workItem from="1589691474432" duration="12519000" />
       <workItem from="1589983155806" duration="406000" />
+      <workItem from="1590042773120" duration="2500000" />
     </task>
     <servers />
   </component>
