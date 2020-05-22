@@ -1,7 +1,5 @@
 package edu.csu.DynamicPlanning;
 
-import java.util.Arrays;
-
 public class LongestPalindromeSubstring {
     public static void main(String[] args) {
         String string = "a";

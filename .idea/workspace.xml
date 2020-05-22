@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/LongestPalindromeSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/StoneGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/MinDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/MinDistance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/LongestPalindromeSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/LongestPalindromeSubstring.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -173,7 +173,7 @@
       <workItem from="1589691474432" duration="12519000" />
       <workItem from="1589983155806" duration="406000" />
       <workItem from="1590042773120" duration="4953000" />
-      <workItem from="1590114875877" duration="301000" />
+      <workItem from="1590114875877" duration="3059000" />
     </task>
     <servers />
   </component>
@@ -318,7 +318,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/LongestPalindromeSubstring.java</url>
-          <line>7</line>
+          <line>5</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
