@@ -8,6 +8,7 @@ public class SingleTon4 {
         return SingleTonHolder.instance;
     }
     private static class SingleTonHolder{
+        //对类的主动使用才会创建对象;
         static SingleTon4 instance = new SingleTon4();
     }
 }

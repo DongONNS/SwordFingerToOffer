@@ -8,7 +8,7 @@ public class SingleTon2 {
     private SingleTon2(){}
     private static final Object obj = new Object();
     public static SingleTon2  getInstance(){
-        if (singleTon == null){
+        if(singleTon == null){
             synchronized (obj){
                 singleTon = new SingleTon2();
             }
