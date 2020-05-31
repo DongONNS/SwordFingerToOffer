@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="" />
+    <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/Top300/FinalDiscountedPrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +79,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumToChinese">
+  <component name="RunManager" selected="Application.FinalDiscountedPrice">
+    <configuration name="FinalDiscountedPrice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.Top300.FinalDiscountedPrice" />
+      <module name="SwordFingerOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.csu.Top300.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LRUCacheTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.csu.DataStructure.LRUCacheTest" />
       <module name="SwordFingerOffer" />
@@ -116,19 +132,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.DynamicPlanning.MinDistance" />
-      <module name="SwordFingerOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.csu.DynamicPlanning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="NumToChinese" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.csu.Top300.NumToChinese" />
       <module name="SwordFingerOffer" />
@@ -144,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FinalDiscountedPrice" />
         <item itemvalue="Application.NumToChinese" />
         <item itemvalue="Application.MaxValue" />
         <item itemvalue="Application.LRUCacheTest" />
         <item itemvalue="Application.LongestPalindromeSubstring" />
-        <item itemvalue="Application.MinDistance" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +177,7 @@
       <workItem from="1590454660248" duration="10000" />
       <workItem from="1590662135348" duration="4378000" />
       <workItem from="1590799224529" duration="3054000" />
-      <workItem from="1590894919426" duration="640000" />
+      <workItem from="1590894919426" duration="5323000" />
     </task>
     <servers />
   </component>
@@ -341,6 +344,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/MaxValue.java</url>
           <line>6</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/Top300/FinalDiscountedPrice.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/problem28/StringCombination.java</url>
