@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/GetList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/AutomaticProofreadingProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/GetTheNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/GroupingOptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/MedianII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/MedianSlidingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/TripleSubarray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/Top300/FinalDiscountedPrice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/Top300/FinalDiscountedPrice.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +62,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -79,7 +85,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FinalDiscountedPrice">
+  <component name="RunManager" selected="Application.GroupingOptions">
     <configuration name="FinalDiscountedPrice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.csu.Top300.FinalDiscountedPrice" />
       <module name="SwordFingerOffer" />
@@ -93,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LRUCacheTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.DataStructure.LRUCacheTest" />
+    <configuration name="GroupingOptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.JiuZhang.GroupingOptions" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.csu.DataStructure.*" />
+          <option name="PATTERN" value="edu.csu.JiuZhang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestPalindromeSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.DynamicPlanning.LongestPalindromeSubstring" />
+    <configuration name="MedianII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.JiuZhang.MedianII" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.csu.DynamicPlanning.*" />
+          <option name="PATTERN" value="edu.csu.JiuZhang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.DynamicPlanning.MaxValue" />
+    <configuration name="MedianSlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.JiuZhang.MedianSlidingWindow" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.csu.DynamicPlanning.*" />
+          <option name="PATTERN" value="edu.csu.JiuZhang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GroupingOptions" />
+        <item itemvalue="Application.MedianII" />
+        <item itemvalue="Application.MedianSlidingWindow" />
         <item itemvalue="Application.FinalDiscountedPrice" />
         <item itemvalue="Application.NumToChinese" />
-        <item itemvalue="Application.MaxValue" />
-        <item itemvalue="Application.LRUCacheTest" />
-        <item itemvalue="Application.LongestPalindromeSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +183,8 @@
       <workItem from="1590454660248" duration="10000" />
       <workItem from="1590662135348" duration="4378000" />
       <workItem from="1590799224529" duration="3054000" />
-      <workItem from="1590894919426" duration="6905000" />
+      <workItem from="1590894919426" duration="9050000" />
+      <workItem from="1590979233466" duration="15300000" />
     </task>
     <servers />
   </component>
@@ -349,6 +356,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/Top300/FinalDiscountedPrice.java</url>
           <line>8</line>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/MedianSlidingWindow.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/MedianII.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/GroupingOptions.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/problem28/StringCombination.java</url>
