@@ -10,7 +10,7 @@ public class GetTheNumber {
         List<Integer> ans = new ArrayList<>();
         for (int i = 0;i < 13;i++) times[cards[i]]++;
 
-        for (int i = 0;i < 10;i++){
+        for (int i = 1;i < 10;i++){
             //尝试将一张还不够四张的牌加入牌堆验证能否胡牌
             if (times[i] < 4){
                 times[i]++;
@@ -35,13 +35,15 @@ public class GetTheNumber {
             if (times[i] < 2) continue;
             //ok表示的是可胡的状态
             boolean ok = true;
-            for (int k = 1;k < 10;k++) tmp[k] = times[i];
+            for (int k = 1;k < 10;k++) tmp[k] = times[k];
             tmp[i] -= 2;
             for (int j = 1;j < 10 && ok;j++){
                 // 刻子jjj
                 if (tmp[j] >= 3) tmp[j] -= 3;
                 while(tmp[j] > 0 && ok){
-                    //
+                    // j肯定不会是雀子了,如果还剩了牌，那一定要凑成刻子，
+                    // 如果是8 9凑成888/999的刻子了,因为不存在8、9、10 9、10、11
+                    // 所以不可能胡牌了
                     if (j + 2 > 9){
                         ok = false;
                         break;

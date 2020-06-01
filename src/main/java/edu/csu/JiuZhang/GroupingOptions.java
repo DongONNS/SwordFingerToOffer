@@ -11,8 +11,10 @@ public class GroupingOptions {
         for (int i = 1; i <= n; i++) dp[i][i] = 1;
         for (int i = 2; i <= n; i++)
             for (int j = 1; j < i; j++)
+
                 for (int k = 1; k <= j; k++)
                     dp[i][j] += dp[i - j][k];
+
         return dp[n][m];
     }
 }

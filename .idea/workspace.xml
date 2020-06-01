@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/AutomaticProofreadingProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/GetTheNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/GroupingOptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/MedianII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/MedianSlidingWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/TripleSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/FeatureExtraction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/Top300/FinalDiscountedPrice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/Top300/FinalDiscountedPrice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/GetTheNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/GetTheNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/GroupingOptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/GroupingOptions.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -184,7 +180,7 @@
       <workItem from="1590662135348" duration="4378000" />
       <workItem from="1590799224529" duration="3054000" />
       <workItem from="1590894919426" duration="9050000" />
-      <workItem from="1590979233466" duration="15300000" />
+      <workItem from="1590979233466" duration="22962000" />
     </task>
     <servers />
   </component>
