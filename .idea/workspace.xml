@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/bytedance/GiveChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/bytedance/TSP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/kuaishou/MaxSlidingWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/Rob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/RobII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/kuaishou/ReverseWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/JiuZhang/GroupingOptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/JiuZhang/GroupingOptions.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaxSlidingWindows">
+  <component name="RunManager" selected="Application.Rob">
     <configuration name="GiveChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.csu.JiuZhang.bytedance.GiveChange" />
       <module name="SwordFingerOffer" />
@@ -122,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MedianII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.JiuZhang.MedianII" />
+    <configuration name="ReverseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.JiuZhang.kuaishou.ReverseWords" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.csu.JiuZhang.*" />
+          <option name="PATTERN" value="edu.csu.JiuZhang.kuaishou.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MedianSlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.JiuZhang.MedianSlidingWindow" />
+    <configuration name="Rob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.DynamicPlanning.Rob" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.csu.JiuZhang.*" />
+          <option name="PATTERN" value="edu.csu.DynamicPlanning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Rob" />
+        <item itemvalue="Application.ReverseWords" />
         <item itemvalue="Application.MaxSlidingWindows" />
         <item itemvalue="Application.GiveChange" />
         <item itemvalue="Application.GroupingOptions" />
-        <item itemvalue="Application.MedianII" />
-        <item itemvalue="Application.MedianSlidingWindow" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +182,8 @@
       <workItem from="1590894919426" duration="9050000" />
       <workItem from="1590979233466" duration="23404000" />
       <workItem from="1591064990941" duration="5932000" />
-      <workItem from="1591526826007" duration="6179000" />
+      <workItem from="1591526826007" duration="10952000" />
+      <workItem from="1592105146186" duration="785000" />
     </task>
     <servers />
   </component>
@@ -380,6 +380,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/kuaishou/MaxSlidingWindows.java</url>
           <line>44</line>
           <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/JiuZhang/kuaishou/ReverseWords.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/problem28/StringCombination.java</url>
