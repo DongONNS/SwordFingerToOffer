@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/MinPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/IntegerBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/NumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/NumberOfArithmeticSlices.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,35 +81,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinPathSum">
-    <configuration name="GiveChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.JiuZhang.bytedance.GiveChange" />
-      <module name="SwordFingerOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.csu.JiuZhang.bytedance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxSlidingWindows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.JiuZhang.kuaishou.MaxSlidingWindows" />
-      <module name="SwordFingerOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.csu.JiuZhang.kuaishou.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NumberOfArithmeticSlices">
     <configuration name="MinPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.csu.DynamicPlanning.MinPathSum" />
+      <module name="SwordFingerOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.csu.DynamicPlanning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.DynamicPlanning.NumArray" />
+      <module name="SwordFingerOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.csu.DynamicPlanning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberOfArithmeticSlices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.DynamicPlanning.NumberOfArithmeticSlices" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
@@ -147,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberOfArithmeticSlices" />
+        <item itemvalue="Application.NumArray" />
         <item itemvalue="Application.MinPathSum" />
         <item itemvalue="Application.Rob" />
         <item itemvalue="Application.ReverseWords" />
-        <item itemvalue="Application.MaxSlidingWindows" />
-        <item itemvalue="Application.GiveChange" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +183,7 @@
       <workItem from="1590979233466" duration="23404000" />
       <workItem from="1591064990941" duration="5932000" />
       <workItem from="1591526826007" duration="10952000" />
-      <workItem from="1592105146186" duration="3045000" />
+      <workItem from="1592105146186" duration="8429000" />
     </task>
     <servers />
   </component>
@@ -388,6 +390,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/MinPathSum.java</url>
           <line>5</line>
           <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/NumArray.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/NumArray.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/NumArray.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/NumberOfArithmeticSlices.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/problem28/StringCombination.java</url>
