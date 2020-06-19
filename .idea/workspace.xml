@@ -2,119 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/Sort/TopKFrequent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/Sort/FrequencySort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DoubelPointer/FindLongestWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DoubelPointer/FindLongestWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DoubelPointer/HasCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DoubelPointer/HasCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DoubelPointer/JudgeSquareSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DoubelPointer/JudgeSquareSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DoubelPointer/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DoubelPointer/Merge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DoubelPointer/ReverseVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DoubelPointer/ReverseVowels.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DoubelPointer/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DoubelPointer/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DoubelPointer/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DoubelPointer/ValidPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/CanPartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/CanPartition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/CoinChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/CoinChange2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/CoinChange2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/CoinChangeIII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/CoinChangeIII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/CombinationSum4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/CombinationSum4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/FindMaxForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/FindMaxForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/FindMaxFormII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/FindMaxFormII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/FindTargetSubways.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/FindTargetSubways.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/FindTargetSubwaysII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/FindTargetSubwaysII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/IntegerBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/IntegerBreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/IntervalSchedule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/IntervalSchedule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/LengthOfLIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/LengthOfLIS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/LongestPalindromeSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/LongestPalindromeSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/MaxValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/MaxValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/MinDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/MinDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/MinPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/MinPathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/NumArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/NumArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/NumDecodings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/NumDecodings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/NumberOfArithmeticSlices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/NumberOfArithmeticSlices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/Rob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/Rob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/RobII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/RobII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/StoneGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/StoneGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/SuperEggDrop2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/SuperEggDrop2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/SupperEggDrop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/SupperEggDrop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/WaysToChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/WaysToChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/WordBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/WordBreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/Top300/FinalDiscountedPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/Top300/FinalDiscountedPrice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/Top300/FindPeakElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/Top300/FindPeakElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/Top300/FindPeakElement2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/Top300/FindPeakElement2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/Top300/NumToChinese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/Top300/NumToChinese.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem/GetKthFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem/GetKthFromEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem/MyPow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem/MyPow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem02/President.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem02/President.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem02/SingleTon1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem02/SingleTon1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem02/SingleTon2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem02/SingleTon2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem02/SingleTon3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem02/SingleTon3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem02/SingleTon4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem02/SingleTon4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem10/HammingWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem10/HammingWeight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem10/HammingWeight2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem10/HammingWeight2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem10/HammingWeight3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem10/HammingWeight3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem13/DeleteNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem13/DeleteNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem13/DeleteNode2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem13/DeleteNode2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem14/Exchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem14/Exchange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem14/Exchange2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem14/Exchange2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem14/Exchange3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem14/Exchange3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem15/GetKthFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem15/GetKthFromEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem16/ReverseLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem16/ReverseLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem17/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem17/Merge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem18/IsSubStructure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem18/IsSubStructure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem18/IsSubstructure2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem18/IsSubstructure2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem19/MirrorTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem19/MirrorTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem19/MirrorTree2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem19/MirrorTree2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem19/MirrorTree3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem19/MirrorTree3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem21/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem21/MinStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem21/MinStack2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem21/MinStack2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem22/ValidateStackSequences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem22/ValidateStackSequences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem23/LevelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem23/LevelOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem23/LevelOrder2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem23/LevelOrder2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem23/LevelOrder2Recursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem23/LevelOrder2Recursive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem23/LevelOrder3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem23/LevelOrder3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem23/LevelOrder3Deque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem23/LevelOrder3Deque.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem24/VerifyPostOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem24/VerifyPostOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem25/PathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem25/PathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem26/CopyRandomList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem26/CopyRandomList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem27/TreeToDoubleList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem27/TreeToDoubleList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem28/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem28/Permutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem28/Permutation2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem28/Permutation2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem28/Permutation3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem28/Permutation3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem28/ResolveNQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem28/ResolveNQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem28/StringCombination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem28/StringCombination.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem29/MajorityElement3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem29/MajorityElement3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem3/FindNumberIn2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem3/FindNumberIn2DArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem3/FindNumberIn2DArray2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem3/FindNumberIn2DArray2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem30/GetLeastNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem30/GetLeastNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem30/GetLeastNumbers2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem30/GetLeastNumbers2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem31/MaxSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem31/MaxSubArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem32/CountDigitOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem32/CountDigitOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem33/MinNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem33/MinNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem33/MinNumber2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem33/MinNumber2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem34/NthUglyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem34/NthUglyNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem35/firstUniqueChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem35/firstUniqueChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem36/ReversePairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem36/ReversePairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem37/GetIntersectionNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem37/GetIntersectionNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem38/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem38/Search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem38/SingleNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem38/SingleNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem39/MaxDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem39/MaxDepth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem4/ReplaceSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem4/ReplaceSpace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem41/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem41/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem42/ReverseWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem42/ReverseWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem43/Ratio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem43/Ratio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem44/IsStraight2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem44/IsStraight2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem44/isStraight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem44/isStraight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem45/LastRemaining.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem45/LastRemaining.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem49/StrToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem49/StrToInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem5/ReversePrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem5/ReversePrint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem50/LowestCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem50/LowestCommonAncestor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem6/BuildTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem6/BuildTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem7/CQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem7/CQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem7/CQueue2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem7/CQueue2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem8/MinNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem8/MinNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem8/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem8/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem9/Fibonacci_Fast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem9/Fibonacci_Fast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/problem9/Fibonacci_Slow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem9/Fibonacci_Slow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/stack/MaxSlidingWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/stack/MaxSlidingWindow.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -294,7 +183,7 @@
       <workItem from="1591526826007" duration="10952000" />
       <workItem from="1592105146186" duration="13389000" />
       <workItem from="1592361189715" duration="8043000" />
-      <workItem from="1592534942028" duration="11518000" />
+      <workItem from="1592534942028" duration="12880000" />
     </task>
     <servers />
   </component>
