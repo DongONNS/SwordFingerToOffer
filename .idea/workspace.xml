@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DoubelPointer/JudgeSquareSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DoubelPointer/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DoubelPointer/ReverseVowels.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,20 +78,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WordBreak">
-    <configuration name="MinPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.DynamicPlanning.MinPathSum" />
-      <module name="SwordFingerOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.csu.DynamicPlanning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReverseVowels">
     <configuration name="NumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.csu.DynamicPlanning.NumArray" />
       <module name="SwordFingerOffer" />
@@ -133,6 +118,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReverseVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.DoubelPointer.ReverseVowels" />
+      <module name="SwordFingerOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.csu.DoubelPointer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WordBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.csu.DynamicPlanning.WordBreak" />
       <module name="SwordFingerOffer" />
@@ -148,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseVowels" />
         <item itemvalue="Application.WordBreak" />
         <item itemvalue="Application.NumDecodings" />
         <item itemvalue="Application.NumberOfArithmeticSlices" />
         <item itemvalue="Application.NumArray" />
-        <item itemvalue="Application.MinPathSum" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +182,7 @@
       <workItem from="1591526826007" duration="10952000" />
       <workItem from="1592105146186" duration="13389000" />
       <workItem from="1592361189715" duration="8043000" />
-      <workItem from="1592534942028" duration="1893000" />
+      <workItem from="1592534942028" duration="2688000" />
     </task>
     <servers />
   </component>
