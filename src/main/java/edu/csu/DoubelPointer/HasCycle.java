@@ -13,6 +13,6 @@ public class HasCycle {
             slow = slow.next;
             fast = fast.next.next;
         }
-        return tru;
+        return true;
     }
 }
