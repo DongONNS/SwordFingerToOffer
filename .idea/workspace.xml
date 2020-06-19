@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DoubelPointer/ReverseVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DoubelPointer/ValidPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DoubelPointer/ReverseVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DoubelPointer/ReverseVowels.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -182,7 +184,7 @@
       <workItem from="1591526826007" duration="10952000" />
       <workItem from="1592105146186" duration="13389000" />
       <workItem from="1592361189715" duration="8043000" />
-      <workItem from="1592534942028" duration="2688000" />
+      <workItem from="1592534942028" duration="4608000" />
     </task>
     <servers />
   </component>
@@ -419,6 +421,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/DynamicPlanning/WordBreak.java</url>
           <line>13</line>
           <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/DoubelPointer/ReverseVowels.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/problem28/StringCombination.java</url>
