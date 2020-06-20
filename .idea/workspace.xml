@@ -2,135 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/Greedy/EraseOverlapIntervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/Greedy/FindMinArrowShots.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/Greedy/FindMinArrowShotsII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/Greedy/CanPlaceFlowers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DoubelPointer/JudgeSquareSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DoubelPointer/ReverseVowels.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DoubelPointer/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/CanPartition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/CoinChange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/CoinChange2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/CoinChangeIII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/CombinationSum4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/FindMaxForm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/FindMaxFormII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/FindTargetSubways.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/FindTargetSubwaysII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/IntegerBreak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/IntervalSchedule$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/IntervalSchedule.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/LengthOfLIS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/LongestPalindromeSubstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/MaxValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/MinDistance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/MinPathSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/NumArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/NumDecodings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/NumberOfArithmeticSlices.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/Pair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/Rob.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/RobII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/StoneGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/SuperEggDrop2$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/SuperEggDrop2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/SupperEggDrop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/WaysToChange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DynamicPlanning/WordBreak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/Top300/FinalDiscountedPrice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/Top300/FindPeakElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/Top300/FindPeakElement2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/Top300/NumToChinese.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem/GetKthFromEnd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem/MyPow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem02/AmericanPresident$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem02/AmericanPresident$Nested.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem02/AmericanPresident.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem02/FrenchPresident$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem02/FrenchPresident$Nested.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem02/FrenchPresident.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem02/President.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem02/SingleTon1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem02/SingleTon2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem02/SingleTon3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem02/SingleTon4$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem02/SingleTon4$SingleTonHolder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem02/SingleTon4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem10/HammingWeight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem10/HammingWeight2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem10/HammingWeight3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem13/DeleteNode$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem13/DeleteNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem13/DeleteNode2$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem13/DeleteNode2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem14/Exchange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem14/Exchange2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem14/Exchange3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem15/GetKthFromEnd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem16/ReverseLists.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem17/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem17/Merge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem18/IsSubStructure.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem18/IsSubstructure2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem19/MirrorTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem19/MirrorTree2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem19/MirrorTree3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem21/MinStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem21/MinStack2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem22/ValidateStackSequences.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem23/LevelOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem23/LevelOrder2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem23/LevelOrder2Recursive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem23/LevelOrder3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem23/LevelOrder3Deque.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem24/VerifyPostOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem25/PathSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem26/CopyRandomList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem26/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem27/TreeToDoubleList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem28/Permutation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem28/Permutation2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem28/Permutation3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem28/ResolveNQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem28/StringCombination.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem29/MajorityElement3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem3/FindNumberIn2DArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem3/FindNumberIn2DArray2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem30/GetLeastNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem30/GetLeastNumbers2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem31/MaxSubArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem32/CountDigitOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem33/MinNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem33/MinNumber2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem34/NthUglyNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem35/firstUniqueChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem36/ReversePairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem37/GetIntersectionNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem38/Search.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem38/SingleNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem39/MaxDepth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem4/ReplaceSpace.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem41/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem42/ReverseWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem43/Ratio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem44/IsStraight2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem44/isStraight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem45/LastRemaining.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem49/StrToInt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem5/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem5/ReversePrint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem50/LowestCommonAncestor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem6/BuildTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem6/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem7/CQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem7/CQueue2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem8/MinNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem8/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem9/Fibonacci_Fast.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/problem9/Fibonacci_Slow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/stack/MaxSlidingWindow.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -311,7 +184,7 @@
       <workItem from="1592105146186" duration="13389000" />
       <workItem from="1592361189715" duration="8043000" />
       <workItem from="1592534942028" duration="15046000" />
-      <workItem from="1592615083283" duration="4000000" />
+      <workItem from="1592615083283" duration="5384000" />
     </task>
     <servers />
   </component>
@@ -556,7 +429,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/leetcode/Greedy/FindMinArrowShotsII.java</url>
-          <line>27</line>
+          <line>32</line>
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
