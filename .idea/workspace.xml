@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/Greedy/IsSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/Greedy/CheckPossibility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/Greedy/IsSubsequenceII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/Greedy/PartitionLabels.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/Greedy/FindMinArrowShotsII.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/Greedy/FindMinArrowShotsII.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +82,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindMinArrowShotsII">
+  <component name="RunManager" selected="Application.CheckPossibility">
+    <configuration name="CheckPossibility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.leetcode.Greedy.CheckPossibility" />
+      <module name="SwordFingerOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.csu.leetcode.Greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindMinArrowShotsII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.csu.leetcode.Greedy.FindMinArrowShotsII" />
       <module name="SwordFingerOffer" />
@@ -93,25 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumDecodings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.leetcode.DynamicPlanning.NumDecodings" />
+    <configuration name="IsSubsequenceII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.leetcode.Greedy.IsSubsequenceII" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.csu.leetcode.DynamicPlanning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberOfArithmeticSlices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.leetcode.DynamicPlanning.NumberOfArithmeticSlices" />
-      <module name="SwordFingerOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.csu.leetcode.DynamicPlanning.*" />
+          <option name="PATTERN" value="edu.csu.leetcode.Greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckPossibility" />
+        <item itemvalue="Application.IsSubsequenceII" />
         <item itemvalue="Application.FindMinArrowShotsII" />
         <item itemvalue="Application.ReverseVowels" />
         <item itemvalue="Application.WordBreak" />
-        <item itemvalue="Application.NumDecodings" />
-        <item itemvalue="Application.NumberOfArithmeticSlices" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +187,7 @@
       <workItem from="1592105146186" duration="13389000" />
       <workItem from="1592361189715" duration="8043000" />
       <workItem from="1592534942028" duration="15046000" />
-      <workItem from="1592615083283" duration="6367000" />
+      <workItem from="1592615083283" duration="13842000" />
     </task>
     <servers />
   </component>
@@ -431,6 +434,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/leetcode/Greedy/FindMinArrowShotsII.java</url>
           <line>32</line>
           <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/leetcode/Greedy/IsSubsequenceII.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/leetcode/Greedy/CheckPossibility.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem28/StringCombination.java</url>
