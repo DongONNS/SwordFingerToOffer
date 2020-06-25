@@ -1,4 +1,4 @@
-package edu.csu.leetcode.search;
+package edu.csu.leetcode.search.bfs;
 
 import javafx.util.Pair;
 
