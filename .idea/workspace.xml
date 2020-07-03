@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/search/dfs/PacificAtlantic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,22 +79,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SingleNonDuplicate">
+  <component name="RunManager" selected="Application.LetterCombinations">
     <configuration name="CheckPossibility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.csu.leetcode.Greedy.CheckPossibility" />
-      <module name="SwordFingerOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.csu.leetcode.Greedy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindMinArrowShotsII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.leetcode.Greedy.FindMinArrowShotsII" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
@@ -118,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.leetcode.DoubelPointer.ReverseVowels" />
+    <configuration name="LetterCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.leetcode.search.backTrack.LetterCombinations" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.csu.leetcode.DoubelPointer.*" />
+          <option name="PATTERN" value="edu.csu.leetcode.search.backTrack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,13 +132,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.Test" />
+      <module name="SwordFingerOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.csu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LetterCombinations" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.SingleNonDuplicate" />
         <item itemvalue="Application.CheckPossibility" />
         <item itemvalue="Application.IsSubsequenceII" />
-        <item itemvalue="Application.FindMinArrowShotsII" />
-        <item itemvalue="Application.ReverseVowels" />
       </list>
     </recent_temporary>
   </component>
@@ -186,6 +187,8 @@
       <workItem from="1592615083283" duration="14718000" />
       <workItem from="1592741388303" duration="6313000" />
       <workItem from="1593051478919" duration="13392000" />
+      <workItem from="1593099188116" duration="376000" />
+      <workItem from="1593600643639" duration="2801000" />
     </task>
     <servers />
   </component>
@@ -447,6 +450,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/leetcode/binarySearch/SingleNonDuplicate.java</url>
           <line>25</line>
           <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/Test.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/Test.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem28/StringCombination.java</url>
