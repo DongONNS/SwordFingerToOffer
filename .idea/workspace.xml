@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/search/backTrack/RestoreIpAddresses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/search/backTrack/SubsetsWithDup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LinkedList/SplitListToParts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/MaxProfit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/search/backTrack/LetterCombinations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/search/backTrack/LetterCombinations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DataStructure/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/DataStructure/LRUCache.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,13 +83,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SubsetsWithDup">
-    <configuration name="LetterCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.leetcode.search.backTrack.LetterCombinations" />
+  <component name="RunManager" selected="Application.LRUCacheTest">
+    <configuration name="LRUCacheTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.DataStructure.LRUCacheTest" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.csu.leetcode.search.backTrack.*" />
+          <option name="PATTERN" value="edu.csu.DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.leetcode.DynamicPlanning.MaxProfit" />
+      <module name="SwordFingerOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.csu.leetcode.DynamicPlanning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleNonDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.leetcode.binarySearch.SingleNonDuplicate" />
+    <configuration name="SplitListToParts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.DataStructure.LinkedList.SplitListToParts" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.csu.leetcode.binarySearch.*" />
+          <option name="PATTERN" value="edu.csu.DataStructure.LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,26 +149,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.Test" />
-      <module name="SwordFingerOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.csu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LRUCacheTest" />
+        <item itemvalue="Application.SplitListToParts" />
+        <item itemvalue="Application.MaxProfit" />
         <item itemvalue="Application.SubsetsWithDup" />
         <item itemvalue="Application.RestoreIpAddresses" />
-        <item itemvalue="Application.LetterCombinations" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.SingleNonDuplicate" />
       </list>
     </recent_temporary>
   </component>
@@ -191,6 +193,12 @@
       <workItem from="1593051478919" duration="13392000" />
       <workItem from="1593099188116" duration="376000" />
       <workItem from="1593600643639" duration="5308000" />
+      <workItem from="1593828101429" duration="4537000" />
+      <workItem from="1593940089358" duration="1920000" />
+      <workItem from="1594743617098" duration="617000" />
+      <workItem from="1594782066261" duration="276000" />
+      <workItem from="1595499198671" duration="2234000" />
+      <workItem from="1595599266267" duration="2422000" />
     </task>
     <servers />
   </component>
@@ -350,7 +358,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LRUCache.java</url>
-          <line>20</line>
+          <line>21</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -455,12 +463,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/Test.java</url>
-          <line>12</line>
+          <line>19</line>
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/Test.java</url>
-          <line>10</line>
+          <line>17</line>
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -472,6 +480,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/leetcode/search/backTrack/SubsetsWithDup.java</url>
           <line>49</line>
           <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/MaxProfit.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LinkedList/SplitListToParts.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem28/StringCombination.java</url>

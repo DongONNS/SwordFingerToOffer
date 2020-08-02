@@ -1,5 +1,12 @@
 package edu.csu;
 
+import com.sun.beans.decoder.ValueObject;
+
+import java.util.concurrent.locks.Condition;
+import java.util.concurrent.locks.Lock;
+import java.util.concurrent.locks.ReentrantLock;
+import java.util.concurrent.locks.ReentrantReadWriteLock;
+
 public class Test {
 
     static String str = new String("good");
@@ -16,5 +23,29 @@ public class Test {
     public void change(String str,char[] ch){
         str = "test ok";
         ch[0] = 'g';
+    }
+
+    private void demo(String string) throws InterruptedException {
+        Lock lock = new ReentrantLock();
+        lock.lockInterruptibly();
+
+        //读写公平锁
+        ReentrantReadWriteLock reentrantReadWriteLock = new ReentrantReadWriteLock(true);
+        reentrantReadWriteLock.readLock();
+        reentrantReadWriteLock.writeLock();
+
+        Condition condition = lock.newCondition();
+
+        ValueObject valueObject = new ValueObject() {
+            @Override
+            public Object getValue() {
+                return null;
+            }
+
+            @Override
+            public boolean isVoid() {
+                return false;
+            }
+        };
     }
 }
