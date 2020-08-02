@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/array/FindMaxConsecutiveOnes.java" afterDir="false" />
-    </list>
+    <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +192,7 @@
       <workItem from="1594782066261" duration="276000" />
       <workItem from="1595499198671" duration="2234000" />
       <workItem from="1595599266267" duration="2422000" />
-      <workItem from="1596330014033" duration="718000" />
+      <workItem from="1596330014033" duration="958000" />
     </task>
     <servers />
   </component>
