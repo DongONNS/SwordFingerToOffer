@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LinkedList/SplitListToParts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/MaxProfit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LRUCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DataStructure/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/DataStructure/LRUCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/array/MatrixReshape.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -199,6 +194,7 @@
       <workItem from="1594782066261" duration="276000" />
       <workItem from="1595499198671" duration="2234000" />
       <workItem from="1595599266267" duration="2422000" />
+      <workItem from="1596330014033" duration="472000" />
     </task>
     <servers />
   </component>
