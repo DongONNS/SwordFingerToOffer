@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/array/ArrayNesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/array/FindestShortestSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/array/IsToeplitzMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/array/MaxChunksToSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/bitOperation/hammingDistance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -198,7 +195,8 @@
       <workItem from="1594782066261" duration="276000" />
       <workItem from="1595499198671" duration="2234000" />
       <workItem from="1595599266267" duration="2422000" />
-      <workItem from="1596330014033" duration="7356000" />
+      <workItem from="1596330014033" duration="10929000" />
+      <workItem from="1596425174457" duration="884000" />
     </task>
     <servers />
   </component>
@@ -490,6 +488,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LinkedList/SplitListToParts.java</url>
           <line>50</line>
           <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-1.8/jdk1.8.0_181/src.zip!/java/util/concurrent/ConcurrentHashMap.java</url>
+          <line>2276</line>
+          <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem28/StringCombination.java</url>
