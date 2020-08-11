@@ -1,7 +1,16 @@
 package edu.csu.leetcode.array;
 
 public class kthSmallest {
-    public int kthSmallest(int[][] matrix, int k) {
+    public static void main(String[] args) {
+        int[][] matrix ={{1,2},{1,3}};
+        int res = kthSmallest(matrix, 3);
+        System.out.println(res);
+    }
+
+
+
+
+    public static int kthSmallest(int[][] matrix, int k) {
         int m = matrix.length,n = matrix[0].length;
         int lo = matrix[0][0],hi = matrix[m - 1][n - 1];
 
@@ -20,4 +29,26 @@ public class kthSmallest {
         }
         return lo;
     }
+
+
+    public static int kthSmallestII(int[][] matrix, int k) {
+        int m = matrix.length,n = matrix[0].length;
+        int lo = matrix[0][0],hi = matrix[m - 1][n - 1];
+
+        while(lo < hi){
+            int mid = lo + (hi - lo)/2;
+            int cnt = 0;
+
+            for(int i = 0;i < m;i++){
+                for(int j = 0;j < n && matrix[i][j] <= mid;j++){
+                    cnt ++;
+                }
+            }
+
+            if(cnt < k) lo = mid + 1;
+            else hi = mid;
+        }
+        return lo;
+    }
+
 }
