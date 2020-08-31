@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/Singleton/DoubleCheckLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/Singleton/StaticClassSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/consumer_producer/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/consumer_producer/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/consumer_producer/MessageQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/consumer_producer/PCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/consumer_producer/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/demo/ComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/demo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/niuke/huawei/DeleteChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/niuke/huawei/TransferBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/array/kthSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/array/kthSmallest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/array/kthSmallest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/array/kthSmallest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +88,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.kthSmallest">
+  <component name="RunManager" selected="Application.PCTest">
+    <configuration name="ComparatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.demo.ComparatorTest" />
+      <module name="SwordFingerOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.csu.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LRUCacheTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.csu.DataStructure.LRUCacheTest" />
       <module name="SwordFingerOffer" />
@@ -96,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.leetcode.DynamicPlanning.MaxProfit" />
+    <configuration name="PCTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.bingfa.consumer_producer.PCTest" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.csu.leetcode.DynamicPlanning.*" />
+          <option name="PATTERN" value="edu.csu.bingfa.consumer_producer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,25 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SplitListToParts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.DataStructure.LinkedList.SplitListToParts" />
+    <configuration name="TransferBase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.niuke.huawei.TransferBase" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.csu.DataStructure.LinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SubsetsWithDup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.leetcode.search.backTrack.SubsetsWithDup" />
-      <module name="SwordFingerOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.csu.leetcode.search.backTrack.*" />
+          <option name="PATTERN" value="edu.csu.niuke.huawei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PCTest" />
+        <item itemvalue="Application.TransferBase" />
+        <item itemvalue="Application.ComparatorTest" />
         <item itemvalue="Application.kthSmallest" />
         <item itemvalue="Application.LRUCacheTest" />
-        <item itemvalue="Application.SplitListToParts" />
-        <item itemvalue="Application.MaxProfit" />
-        <item itemvalue="Application.SubsetsWithDup" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +210,11 @@
       <workItem from="1596800607092" duration="661000" />
       <workItem from="1596860444443" duration="167000" />
       <workItem from="1597032904234" duration="1184000" />
-      <workItem from="1597140837245" duration="1346000" />
+      <workItem from="1597140837245" duration="1560000" />
+      <workItem from="1597162433204" duration="1316000" />
+      <workItem from="1598599163168" duration="2496000" />
+      <workItem from="1598773586193" duration="4088000" />
+      <workItem from="1598888183846" duration="3770000" />
     </task>
     <servers />
   </component>
@@ -468,16 +478,6 @@
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/Test.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/Test.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/leetcode/search/backTrack/RestoreIpAddresses.java</url>
           <line>56</line>
           <option name="timeStamp" value="53" />
@@ -506,6 +506,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/leetcode/array/kthSmallest.java</url>
           <line>5</line>
           <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/niuke/huawei/TransferBase.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem28/StringCombination.java</url>
