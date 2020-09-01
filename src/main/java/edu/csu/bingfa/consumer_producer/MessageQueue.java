@@ -12,7 +12,7 @@ public class MessageQueue {
     }
 
     public MessageQueue(int limit){
-        this.queue =new LinkedList<>();
+        this.queue = new LinkedList<>();
         this.limit = limit;
     }
 

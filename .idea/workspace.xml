@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/consumer_producer/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/consumer_producer/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/consumer_producer/MessageQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/consumer_producer/PCTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/consumer_producer/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/demo/ComparatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/demo/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/niuke/huawei/DeleteChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/niuke/huawei/TransferBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/array/kthSmallest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/array/kthSmallest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/consumer_producer/MessageQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/consumer_producer/MessageQueue.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +79,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PCTest">
+  <component name="RunManager" selected="Application.IsIsomorphic">
     <configuration name="ComparatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.csu.demo.ComparatorTest" />
       <module name="SwordFingerOffer" />
@@ -102,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LRUCacheTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.DataStructure.LRUCacheTest" />
+    <configuration name="IsIsomorphic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.leetcode.string.IsIsomorphic" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.csu.DataStructure.*" />
+          <option name="PATTERN" value="edu.csu.leetcode.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsIsomorphic" />
         <item itemvalue="Application.PCTest" />
         <item itemvalue="Application.TransferBase" />
         <item itemvalue="Application.ComparatorTest" />
         <item itemvalue="Application.kthSmallest" />
-        <item itemvalue="Application.LRUCacheTest" />
       </list>
     </recent_temporary>
   </component>
@@ -215,6 +206,8 @@
       <workItem from="1598599163168" duration="2496000" />
       <workItem from="1598773586193" duration="4088000" />
       <workItem from="1598888183846" duration="3770000" />
+      <workItem from="1598894364862" duration="52000" />
+      <workItem from="1598921830638" duration="122000" />
     </task>
     <servers />
   </component>
