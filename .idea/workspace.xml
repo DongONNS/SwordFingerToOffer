@@ -2,14 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/BinaryHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/demo/ListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/consumer_producer/MessageQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/consumer_producer/MessageQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/string/IsIsomorphic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/string/IsIsomorphic.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SwordFingerOffer" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -53,6 +63,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -79,9 +90,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IsIsomorphic">
-    <configuration name="ComparatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.demo.ComparatorTest" />
+  <component name="RunManager" selected="Application.MergeSort">
+    <configuration name="IsIsomorphic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.leetcode.string.IsIsomorphic" />
+      <module name="SwordFingerOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.csu.leetcode.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.demo.ListTest" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
@@ -93,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsIsomorphic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.leetcode.string.IsIsomorphic" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.algorithm.MergeSort" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.csu.leetcode.string.*" />
+          <option name="PATTERN" value="edu.csu.algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,25 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransferBase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.niuke.huawei.TransferBase" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.algorithm.QuickSort" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.csu.niuke.huawei.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="kthSmallest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.leetcode.array.kthSmallest" />
-      <module name="SwordFingerOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.csu.leetcode.array.*" />
+          <option name="PATTERN" value="edu.csu.algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.ListTest" />
         <item itemvalue="Application.IsIsomorphic" />
         <item itemvalue="Application.PCTest" />
-        <item itemvalue="Application.TransferBase" />
-        <item itemvalue="Application.ComparatorTest" />
-        <item itemvalue="Application.kthSmallest" />
       </list>
     </recent_temporary>
   </component>
@@ -208,6 +219,9 @@
       <workItem from="1598888183846" duration="3770000" />
       <workItem from="1598894364862" duration="52000" />
       <workItem from="1598921830638" duration="122000" />
+      <workItem from="1598949149498" duration="1217000" />
+      <workItem from="1599010357646" duration="2324000" />
+      <workItem from="1599133968637" duration="14577000" />
     </task>
     <servers />
   </component>
@@ -491,11 +505,6 @@
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://C:/Program Files/Java/jdk-1.8/jdk1.8.0_181/src.zip!/java/util/concurrent/ConcurrentHashMap.java</url>
-          <line>2276</line>
-          <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/leetcode/array/kthSmallest.java</url>
           <line>5</line>
           <option name="timeStamp" value="59" />
@@ -504,6 +513,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/niuke/huawei/TransferBase.java</url>
           <line>57</line>
           <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/leetcode/string/IsIsomorphic.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem28/StringCombination.java</url>
