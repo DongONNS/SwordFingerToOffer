@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/BinaryHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/demo/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/printABC/version1/PrintABC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/printABC/version1/PrintThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/printABC/version1/PrintThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/printABC/version1/PrintThreadC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/printABC/version1/TestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/printABC/version2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/printABC/version2/PrintABC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/printABC/version3/ABC_Condition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/string/IsIsomorphic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/string/IsIsomorphic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/algorithm/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/algorithm/MergeSort.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,11 +72,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.csu.bingfa.printABC" />
       <recent name="edu.csu.leetcode.Greedy" />
       <recent name="edu.csu.problem33" />
       <recent name="edu.csu.problem30" />
       <recent name="edu.csu.problem29" />
-      <recent name="edu.csu.problem10" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -90,13 +91,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MergeSort">
-    <configuration name="IsIsomorphic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.leetcode.string.IsIsomorphic" />
+  <component name="RunManager" selected="Application.ABC_Condition">
+    <configuration name="ABC_Condition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.bingfa.printABC.version3.ABC_Condition" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.csu.leetcode.string.*" />
+          <option name="PATTERN" value="edu.csu.bingfa.printABC.version3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.demo.ListTest" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.bingfa.printABC.version2.Main" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.csu.demo.*" />
+          <option name="PATTERN" value="edu.csu.bingfa.printABC.version2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,19 +131,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PCTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.bingfa.consumer_producer.PCTest" />
-      <module name="SwordFingerOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.csu.bingfa.consumer_producer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.csu.algorithm.QuickSort" />
       <module name="SwordFingerOffer" />
@@ -156,13 +144,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.bingfa.printABC.version1.TestDemo" />
+      <module name="SwordFingerOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.csu.bingfa.printABC.version1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ABC_Condition" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TestDemo" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.ListTest" />
-        <item itemvalue="Application.IsIsomorphic" />
-        <item itemvalue="Application.PCTest" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +222,8 @@
       <workItem from="1598921830638" duration="122000" />
       <workItem from="1598949149498" duration="1217000" />
       <workItem from="1599010357646" duration="2324000" />
-      <workItem from="1599133968637" duration="14577000" />
+      <workItem from="1599133968637" duration="15802000" />
+      <workItem from="1599267785316" duration="5656000" />
     </task>
     <servers />
   </component>
