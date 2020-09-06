@@ -6,6 +6,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 public class ABC_Condition {
     private static Lock lock = new ReentrantLock();
+
     private static Condition A = lock.newCondition();
     private static Condition B = lock.newCondition();
     private static Condition C = lock.newCondition();
@@ -25,9 +26,10 @@ public class ABC_Condition {
                         A.await();
 
                     System.out.println("A");
-                    count++;
-                    B.signal();
 
+                    count++;
+
+                    B.signal();
                 }
             }catch (InterruptedException e){
                 e.printStackTrace();
@@ -50,9 +52,10 @@ public class ABC_Condition {
                         B.await();
 
                     System.out.println("B");
-                    count++;
-                    C.signal();
 
+                    count++;
+
+                    C.signal();
                 }
             }catch (InterruptedException e){
                 e.printStackTrace();
@@ -74,9 +77,10 @@ public class ABC_Condition {
                         C.await();
 
                     System.out.println("C");
-                    count++;
-                    A.signal();
 
+                    count++;
+
+                    A.signal();
                 }
             }catch (InterruptedException e){
                 e.printStackTrace();

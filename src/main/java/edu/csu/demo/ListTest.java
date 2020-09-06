@@ -12,9 +12,9 @@ public class ListTest {
         arr.add(4);
         arr.add(5);
 
-        List<Integer> sub = arr.subList(0,2);
+        List<Integer> sub = arr.subList(3,5);
 
-        sub.remove(1);
+        sub.remove(0);
 
         System.out.println("修改后的arr数组" + arr.toString());
 
