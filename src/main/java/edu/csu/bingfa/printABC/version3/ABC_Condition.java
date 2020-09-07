@@ -90,7 +90,6 @@ public class ABC_Condition {
         }
     }
 
-
     public static void main(String[] args) {
         new ThreadA().start();
         new ThreadB().start();

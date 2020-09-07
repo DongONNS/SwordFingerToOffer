@@ -2,44 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LinkedHashMapLearning/LRUPra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/sort/Heap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/consumer_producer/version2/BoundedQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/demo/SyncTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/sort/RatioSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/binarySearch/SearchRange_version1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/binarySearch/SearchRange_version2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LinkedHashMapLearning/LRUCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LRUCacheTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LinkedHashMapLearning/LRUCacheTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/BinaryHeap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/sort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/sort/InsertSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/sort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/sort/SelectSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/consumer_producer/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/consumer_producer/version1/Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/consumer_producer/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/consumer_producer/version1/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/consumer_producer/MessageQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/consumer_producer/version1/MessageQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/consumer_producer/PCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/consumer_producer/version1/PCTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/consumer_producer/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/consumer_producer/version1/Producer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/printABC/version3/ABC_Condition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/printABC/version3/ABC_Condition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/demo/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/demo/ListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DataStructure/LRUCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DataStructure/LRUCacheTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/algorithm/BinaryHeap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/algorithm/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/algorithm/InsertSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/algorithm/MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/algorithm/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/algorithm/SelectSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/consumer_producer/Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/consumer_producer/Message.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/consumer_producer/MessageQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/consumer_producer/PCTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/consumer_producer/Producer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/printABC/version3/ABC_Condition$ThreadA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/printABC/version3/ABC_Condition$ThreadA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/printABC/version3/ABC_Condition$ThreadB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/printABC/version3/ABC_Condition$ThreadB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/printABC/version3/ABC_Condition$ThreadC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/printABC/version3/ABC_Condition$ThreadC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/binarySearch/FirstBadVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/binarySearch/FirstBadVersion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/binarySearch/NextGreatestLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/binarySearch/NextGreatestLetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/binarySearch/SingleNonDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/binarySearch/SingleNonDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/algorithm/sort/Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/algorithm/sort/Heap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/algorithm/sort/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/algorithm/sort/InsertSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/algorithm/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/algorithm/sort/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/algorithm/sort/SelectSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/algorithm/sort/SelectSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/consumer_producer/version2/BoundedQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/consumer_producer/version2/BoundedQueue.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/printABC/version3/ABC_Condition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/printABC/version3/ABC_Condition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/demo/ListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/demo/ListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/binarySearch/FirstBadVersion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/binarySearch/FirstBadVersion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/binarySearch/NextGreatestLetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/binarySearch/NextGreatestLetter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/binarySearch/SingleNonDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/binarySearch/SingleNonDuplicate.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,11 +79,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.csu.leetcode.binarySearch" />
       <recent name="edu.csu.bingfa.printABC" />
       <recent name="edu.csu.leetcode.Greedy" />
       <recent name="edu.csu.problem33" />
       <recent name="edu.csu.problem30" />
-      <recent name="edu.csu.problem29" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -119,20 +98,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Heap">
-    <configuration name="ABC_Condition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.bingfa.printABC.version3.ABC_Condition" />
-      <module name="SwordFingerOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.csu.bingfa.printABC.version3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.QuickSort">
     <configuration name="Heap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.csu.algorithm.sort.Heap" />
       <module name="SwordFingerOffer" />
@@ -146,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.demo.ListTest" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.algorithm.sort.QuickSort" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.csu.demo.*" />
+          <option name="PATTERN" value="edu.csu.algorithm.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +125,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.bingfa.printABC.version2.Main" />
+    <configuration name="SearchRange_version1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.leetcode.binarySearch.SearchRange_version1" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.csu.bingfa.printABC.version2.*" />
+          <option name="PATTERN" value="edu.csu.leetcode.binarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchRange_version2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.leetcode.binarySearch.SearchRange_version2" />
+      <module name="SwordFingerOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.csu.leetcode.binarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.SearchRange_version1" />
+        <item itemvalue="Application.SearchRange_version2" />
         <item itemvalue="Application.Heap" />
         <item itemvalue="Application.SyncTest" />
-        <item itemvalue="Application.ListTest" />
-        <item itemvalue="Application.ABC_Condition" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +231,8 @@
       <workItem from="1599010357646" duration="2324000" />
       <workItem from="1599133968637" duration="15802000" />
       <workItem from="1599267785316" duration="31671000" />
-      <workItem from="1599360601871" duration="2199000" />
+      <workItem from="1599360601871" duration="7688000" />
+      <workItem from="1599442579397" duration="2236000" />
     </task>
     <servers />
   </component>
@@ -512,7 +492,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/leetcode/binarySearch/SingleNonDuplicate.java</url>
-          <line>25</line>
+          <line>38</line>
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -555,6 +535,11 @@
           <line>16</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/leetcode/binarySearch/SearchRange_version1.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem28/StringCombination.java</url>
           <line>11</line>
@@ -562,14 +547,6 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>jar://C:/Program Files/Java/jdk-1.8/jdk1.8.0_181/src.zip!/java/util/ArrayList.java</url>
-          <line>1002</line>
-          <properties class="java.util.ArrayList" method="subList">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="65" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
