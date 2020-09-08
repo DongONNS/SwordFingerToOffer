@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/gupiao/maxProfitWithCoolPeriod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/gupiao/maxProfitWithFee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,11 +64,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.csu.leetcode.DynamicPlanning.gupiao" />
       <recent name="edu.csu.leetcode.DynamicPlanning" />
       <recent name="edu.csu.leetcode.binarySearch" />
       <recent name="edu.csu.bingfa.printABC" />
       <recent name="edu.csu.leetcode.Greedy" />
-      <recent name="edu.csu.problem33" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -217,7 +217,7 @@
       <workItem from="1599133968637" duration="15802000" />
       <workItem from="1599267785316" duration="31671000" />
       <workItem from="1599360601871" duration="7688000" />
-      <workItem from="1599442579397" duration="6562000" />
+      <workItem from="1599442579397" duration="7336000" />
     </task>
     <servers />
   </component>
