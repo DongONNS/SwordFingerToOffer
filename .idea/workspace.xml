@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/algorithm/sort/RatioSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/binarySearch/SearchRange_version1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/binarySearch/SearchRange_version2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/Knapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/Knapsack_version1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/printABC/version3/ABC_Condition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/printABC/version3/ABC_Condition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/binarySearch/FirstBadVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/binarySearch/FirstBadVersion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/binarySearch/NextGreatestLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/binarySearch/NextGreatestLetter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/binarySearch/SingleNonDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/binarySearch/SingleNonDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/algorithm/sort/Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/algorithm/sort/Heap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/algorithm/sort/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/algorithm/sort/InsertSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/algorithm/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/algorithm/sort/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/algorithm/sort/SelectSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/algorithm/sort/SelectSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/consumer_producer/version2/BoundedQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/consumer_producer/version2/BoundedQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/printABC/version3/ABC_Condition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/printABC/version3/ABC_Condition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/binarySearch/FirstBadVersion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/binarySearch/FirstBadVersion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/binarySearch/NextGreatestLetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/binarySearch/NextGreatestLetter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/binarySearch/SingleNonDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/binarySearch/SingleNonDuplicate.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -232,7 +218,7 @@
       <workItem from="1599133968637" duration="15802000" />
       <workItem from="1599267785316" duration="31671000" />
       <workItem from="1599360601871" duration="7688000" />
-      <workItem from="1599442579397" duration="2236000" />
+      <workItem from="1599442579397" duration="5202000" />
     </task>
     <servers />
   </component>
@@ -389,11 +375,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LinkedHashMapLearning/LRUCacheTest.java</url>
           <line>4</line>
           <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LinkedHashMapLearning/LRUCache.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/MaxValue.java</url>
