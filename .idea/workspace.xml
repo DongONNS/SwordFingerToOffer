@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/gupiao/MaxProfitThatKIsInf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/demo/ValueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +83,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QuickSort">
+  <component name="RunManager" selected="Application.ValueDemo">
     <configuration name="Heap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.csu.algorithm.sort.Heap" />
       <module name="SwordFingerOffer" />
@@ -135,8 +136,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SyncTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.demo.SyncTest" />
+    <configuration name="ValueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.demo.ValueDemo" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
@@ -150,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValueDemo" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.SearchRange_version1" />
         <item itemvalue="Application.SearchRange_version2" />
         <item itemvalue="Application.Heap" />
-        <item itemvalue="Application.SyncTest" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +217,9 @@
       <workItem from="1599133968637" duration="15802000" />
       <workItem from="1599267785316" duration="31671000" />
       <workItem from="1599360601871" duration="7688000" />
-      <workItem from="1599442579397" duration="10213000" />
+      <workItem from="1599442579397" duration="11869000" />
+      <workItem from="1599611789614" duration="2533000" />
+      <workItem from="1599701373748" duration="760000" />
     </task>
     <servers />
   </component>
