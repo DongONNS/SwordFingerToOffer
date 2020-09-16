@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="" />
+    <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/hot100/Trap_solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,6 +222,7 @@
       <workItem from="1599701373748" duration="760000" />
       <workItem from="1600098137381" duration="1718000" />
       <workItem from="1600137040907" duration="692000" />
+      <workItem from="1600224926884" duration="908000" />
     </task>
     <servers />
   </component>
