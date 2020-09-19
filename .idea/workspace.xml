@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/hot100/Trap_solution4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/hot100/Trap_solution5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/hot100/Trap_solution5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/hot100/Trap_solution5.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,20 +83,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ValueDemo">
-    <configuration name="Heap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.algorithm.sort.Heap" />
-      <module name="SwordFingerOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.csu.algorithm.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Trap_solution5">
     <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.csu.algorithm.sort.QuickSort" />
       <module name="SwordFingerOffer" />
@@ -136,6 +123,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Trap_solution5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.leetcode.hot100.Trap_solution5" />
+      <module name="SwordFingerOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.csu.leetcode.hot100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ValueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.csu.demo.ValueDemo" />
       <module name="SwordFingerOffer" />
@@ -151,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Trap_solution5" />
         <item itemvalue="Application.ValueDemo" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.SearchRange_version1" />
         <item itemvalue="Application.SearchRange_version2" />
-        <item itemvalue="Application.Heap" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +222,8 @@
       <workItem from="1599701373748" duration="760000" />
       <workItem from="1600098137381" duration="1718000" />
       <workItem from="1600137040907" duration="692000" />
-      <workItem from="1600224926884" duration="2863000" />
+      <workItem from="1600224926884" duration="4237000" />
+      <workItem from="1600530759559" duration="625000" />
     </task>
     <servers />
   </component>
@@ -524,6 +525,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/leetcode/binarySearch/SearchRange_version1.java</url>
           <line>8</line>
           <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/leetcode/hot100/Trap_solution5.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="68" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/problem28/StringCombination.java</url>

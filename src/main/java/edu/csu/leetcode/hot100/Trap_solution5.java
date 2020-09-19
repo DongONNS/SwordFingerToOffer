@@ -1,9 +1,17 @@
 package edu.csu.leetcode.hot100;
 
+import java.util.Arrays;
 import java.util.Stack;
 
 public class Trap_solution5 {
-     public int trap(int[] height){
+
+    public static void main(String[] args) {
+        int[] height = {0,1,0,2,1,0,1,3,2,1,2,1};
+        int res = trap(height);
+        System.out.println(res);
+    }
+
+     public static int trap(int[] height){
          int sum = 0;
          Stack<Integer> stack = new Stack();
          int current = 0;
