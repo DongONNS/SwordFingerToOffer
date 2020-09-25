@@ -2,7 +2,7 @@ package edu.csu.DataStructure.LFUCache;
 
 public class LFRCacheTest {
     public static void main(String[] args) {
-        LFUCache4 cache = new LFUCache4(2);
+        LFUCache3 cache = new LFUCache3(2);
 
         cache.put(1, 1);
         cache.put(2, 2);
