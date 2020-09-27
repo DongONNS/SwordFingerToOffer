@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/HashMap/HashMapEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/demo/SerilizableTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LinkedHashMapLearning/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LRUCache/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LinkedHashMapLearning/LRUCacheTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LRUCache/LRUCacheTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LinkedHashMapLearning/LRUPra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LRUCache/LRUPra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/CanPartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/zeroonepackage/CanPartition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DataStructure/LinkedHashMapLearning/LRUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DataStructure/LinkedHashMapLearning/LRUCacheTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DataStructure/LinkedHashMapLearning/LRUPra.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +91,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LFRCacheTest">
+  <component name="RunManager" selected="Application.HashMapEx">
+    <configuration name="HashMapEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.DataStructure.HashMap.HashMapEx" />
+      <module name="SwordFingerOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.csu.DataStructure.HashMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LFRCacheTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.csu.DataStructure.LFUCache.LFRCacheTest" />
       <module name="SwordFingerOffer" />
@@ -102,19 +124,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="edu.csu.algorithm.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SearchRange_version1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.leetcode.binarySearch.SearchRange_version1" />
-      <module name="SwordFingerOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.csu.leetcode.binarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashMapEx" />
         <item itemvalue="Application.LFRCacheTest" />
         <item itemvalue="Application.Trap_solution5" />
         <item itemvalue="Application.ValueDemo" />
         <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.SearchRange_version1" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +235,9 @@
       <workItem from="1600702529732" duration="1024000" />
       <workItem from="1600738275975" duration="672000" />
       <workItem from="1600850985562" duration="2517000" />
-      <workItem from="1601002339979" duration="7966000" />
+      <workItem from="1601002339979" duration="12482000" />
+      <workItem from="1601083756671" duration="1338000" />
+      <workItem from="1601171045444" duration="236000" />
     </task>
     <servers />
   </component>
@@ -373,16 +384,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/LongestPalindromeSubstring.java</url>
           <line>5</line>
           <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LinkedHashMapLearning/LRUCacheTest.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LinkedHashMapLearning/LRUCacheTest.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/MaxValue.java</url>

@@ -1,4 +1,4 @@
-package edu.csu.DataStructure.LinkedHashMapLearning;
+package edu.csu.DataStructure.LRUCache;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
@@ -18,7 +18,7 @@ public class LRUCache<K,V> extends LinkedHashMap<K,V> {
      * @return
      */
     @Override
-    protected boolean removeEldestEntry(Map.Entry<K, V> eldest) {
+    protected boolean removeEldestEntry(Map.Entry<K, V> eldest){
         return size() > cacheSize;
     }
 }

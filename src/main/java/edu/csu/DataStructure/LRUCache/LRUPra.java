@@ -1,4 +1,4 @@
-package edu.csu.DataStructure.LinkedHashMapLearning;
+package edu.csu.DataStructure.LRUCache;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

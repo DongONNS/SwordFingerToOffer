@@ -1,4 +1,4 @@
-package edu.csu.DataStructure.LinkedHashMapLearning;
+package edu.csu.DataStructure.LRUCache;
 
 public class LRUCacheTest {
     public static void main(String[] args) {
