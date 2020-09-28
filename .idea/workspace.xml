@@ -2,16 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/HashMap/HashMapEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/demo/SerilizableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/aqs/TwinsLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/demo/ResizeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/zeroonepackage/CoinChangeDP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/csu/DataStructure/HashMap/HashMapEx$A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/aqs/TwinsLock$Sync.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/aqs/TwinsLock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/csu/demo/ResizeDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/csu/demo/SerilizableTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/DynamicPlanning/zeroonepackage/CanPartition.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LinkedHashMapLearning/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LRUCache/LRUCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LinkedHashMapLearning/LRUCacheTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LRUCache/LRUCacheTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LinkedHashMapLearning/LRUPra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/DataStructure/LRUCache/LRUPra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/CanPartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/zeroonepackage/CanPartition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DataStructure/LinkedHashMapLearning/LRUCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DataStructure/LinkedHashMapLearning/LRUCacheTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DataStructure/LinkedHashMapLearning/LRUPra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/printABC/version1/PrintABC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/printABC/version1/PrintABC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/printABC/version1/PrintThreadA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/printABC/version1/PrintThreadA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/printABC/version1/PrintThreadB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/printABC/version1/PrintThreadB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/printABC/version1/PrintThreadC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/printABC/version1/PrintThreadC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/printABC/version1/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/bingfa/printABC/version1/TestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/zeroonepackage/CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/CoinChange2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/zeroonepackage/CoinChange2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/CoinChangeIII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/zeroonepackage/CoinChangeIII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/CombinationSum4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/zeroonepackage/CombinationSum4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/FindMaxForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/zeroonepackage/FindMaxForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/FindMaxFormII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/zeroonepackage/FindMaxFormII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/FindTargetSubways.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/zeroonepackage/FindTargetSubways.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/FindTargetSubwaysII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/zeroonepackage/FindTargetSubwaysII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/WordBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/zeroonepackage/WordBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/zeroonepackage/CanPartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/zeroonepackage/CanPartition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/DataStructure/HashMap/HashMapEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/DataStructure/HashMap/HashMapEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/printABC/version1/PrintABC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/printABC/version1/PrintABC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/printABC/version1/PrintThreadA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/printABC/version1/PrintThreadA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/printABC/version1/PrintThreadB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/printABC/version1/PrintThreadB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/printABC/version1/PrintThreadC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/printABC/version1/PrintThreadC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/printABC/version1/TestDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/csu/bingfa/printABC/version1/TestDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/csu/leetcode/DynamicPlanning/CanPartition.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +53,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/zeroonepackage/CanPartition.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -91,7 +116,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HashMapEx">
+  <component name="RunManager" selected="Application.TestDemo">
     <configuration name="HashMapEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.csu.DataStructure.HashMap.HashMapEx" />
       <module name="SwordFingerOffer" />
@@ -118,12 +143,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.algorithm.sort.QuickSort" />
+    <configuration name="ResizeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.demo.ResizeDemo" />
       <module name="SwordFingerOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.csu.algorithm.sort.*" />
+          <option name="PATTERN" value="edu.csu.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csu.bingfa.printABC.version1.TestDemo" />
+      <module name="SwordFingerOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.csu.bingfa.printABC.version1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,26 +182,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.csu.demo.ValueDemo" />
-      <module name="SwordFingerOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.csu.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestDemo" />
+        <item itemvalue="Application.ResizeDemo" />
         <item itemvalue="Application.HashMapEx" />
         <item itemvalue="Application.LFRCacheTest" />
         <item itemvalue="Application.Trap_solution5" />
-        <item itemvalue="Application.ValueDemo" />
-        <item itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +262,8 @@
       <workItem from="1600850985562" duration="2517000" />
       <workItem from="1601002339979" duration="12482000" />
       <workItem from="1601083756671" duration="1338000" />
-      <workItem from="1601171045444" duration="236000" />
+      <workItem from="1601171045444" duration="5911000" />
+      <workItem from="1601285787708" duration="5941000" />
     </task>
     <servers />
   </component>
@@ -454,11 +480,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/NumDecodings.java</url>
           <line>25</line>
           <option name="timeStamp" value="42" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/WordBreak.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DoubelPointer/ReverseVowels.java</url>

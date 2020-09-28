@@ -1,4 +1,4 @@
-package edu.csu.leetcode.DynamicPlanning;
+package edu.csu.leetcode.DynamicPlanning.zeroonepackage;
 
 /**
  * 自底向上的动态规划

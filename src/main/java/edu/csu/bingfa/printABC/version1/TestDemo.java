@@ -2,14 +2,14 @@ package edu.csu.bingfa.printABC.version1;
 
 public class TestDemo {
     public static void main(String[] args) throws InterruptedException {
-        // 从打印A开始
+        // 当前正在执行的线程的标记
         int num = 1;
 
         PrintABC print = new PrintABC(num);
 
         PrintThreadA printA = new PrintThreadA(print);
-        PrintThreadA printB = new PrintThreadA(print);
-        PrintThreadA printC = new PrintThreadA(print);
+        PrintThreadB printB = new PrintThreadB(print);
+        PrintThreadC printC = new PrintThreadC(print);
 
         printA.start();
         Thread.sleep(50);

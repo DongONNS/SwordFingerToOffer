@@ -1,4 +1,4 @@
-package edu.csu.leetcode.DynamicPlanning;
+package edu.csu.leetcode.DynamicPlanning.zeroonepackage;
 
 public class CombinationSum4 {
     public int combinationSum(int[] nums,int target){

@@ -1,4 +1,4 @@
-package edu.csu.leetcode.DynamicPlanning;
+package edu.csu.leetcode.DynamicPlanning.zeroonepackage;
 
 public class CoinChange {
     int res = Integer.MAX_VALUE;

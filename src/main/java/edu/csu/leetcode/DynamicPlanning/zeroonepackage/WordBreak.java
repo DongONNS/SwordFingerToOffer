@@ -1,4 +1,4 @@
-package edu.csu.leetcode.DynamicPlanning;
+package edu.csu.leetcode.DynamicPlanning.zeroonepackage;
 
 import java.util.ArrayList;
 import java.util.HashSet;

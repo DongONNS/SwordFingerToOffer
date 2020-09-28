@@ -1,7 +1,7 @@
 package edu.csu.bingfa.printABC.version1;
 
 public class PrintThreadC extends Thread{
-    PrintABC print;
+    private PrintABC print;
 
     public PrintThreadC(PrintABC print){
         super();

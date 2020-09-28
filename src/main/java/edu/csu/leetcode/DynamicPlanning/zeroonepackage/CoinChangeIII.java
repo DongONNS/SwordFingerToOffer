@@ -1,4 +1,4 @@
-package edu.csu.leetcode.DynamicPlanning;
+package edu.csu.leetcode.DynamicPlanning.zeroonepackage;
 
 public class CoinChangeIII {
     public int change(int amount, int[] coins) {

@@ -1,4 +1,16 @@
-package edu.csu.leetcode.DynamicPlanning;
+package edu.csu.leetcode.DynamicPlanning.zeroonepackage;
+
+/*
+Input: Array = {"10", "0001", "111001", "1", "0"}, m = 5, n = 3
+Output: 4
+
+Explanation: There are totally 4 strings can be formed
+by the using of 5 0s and 3 1s, which are "10","0001","1","0".
+ */
+
+/*
+    这是一个多维费用的 0-1 背包问题，有两个背包大小，0 的数量和 1 的数量。
+ */
 
 public class FindMaxForm {
     public int findMaxForm(String[] strs,int m,int n){
