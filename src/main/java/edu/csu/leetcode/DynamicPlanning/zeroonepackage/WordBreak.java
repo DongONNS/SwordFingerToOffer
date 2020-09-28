@@ -22,6 +22,7 @@ public class WordBreak {
         boolean[] dp = new boolean[s.length() + 1];
         //“”空字符串是可以组成的
         dp[0] = true;
+
         //[0,i]之间的字符串逐个验证
         for(int i = 1;i <= s.length();i++){
             //[0,j] 和 [j,i]两个字符串能否由wordDict中字符串重组
