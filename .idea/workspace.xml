@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/zeroonepackage/ChangeDP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/zeroonepackage/WordBreakII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/zeroonepackage/CombinationSum4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/zeroonepackage/CombinationSum4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/zeroonepackage/WordBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/DynamicPlanning/zeroonepackage/WordBreak.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +76,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -250,7 +246,7 @@
       <workItem from="1601002339979" duration="12482000" />
       <workItem from="1601083756671" duration="1338000" />
       <workItem from="1601171045444" duration="5911000" />
-      <workItem from="1601285787708" duration="8342000" />
+      <workItem from="1601285787708" duration="12393000" />
     </task>
     <servers />
   </component>
