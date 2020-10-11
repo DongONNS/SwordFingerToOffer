@@ -1,4 +1,4 @@
-package edu.csu.leetcode;
+package edu.csu.leetcode.hot100;
 
 import java.util.Arrays;
 
