@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/leetcode/hot100/CanFinish.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -250,6 +251,8 @@
       <workItem from="1602258023571" duration="876000" />
       <workItem from="1602429483452" duration="977000" />
       <workItem from="1602518028363" duration="709000" />
+      <workItem from="1602604476644" duration="720000" />
+      <workItem from="1602689520646" duration="1302000" />
     </task>
     <servers />
   </component>
