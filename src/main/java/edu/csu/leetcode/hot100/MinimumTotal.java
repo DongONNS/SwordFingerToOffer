@@ -1,5 +1,7 @@
 package edu.csu.leetcode.hot100;
 
+import java.util.List;
+
 public class MinimumTotal {
     public int minimumTotal(List<List<Integer>> triangle) {
         return dfs(triangle,0,0);
