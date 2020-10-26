@@ -1,5 +1,7 @@
 package edu.csu.leetcode.hot100;
 
+import java.util.List;
+
 public class MinimumTotal_dp_version2 {
     public int minimumTotal(List<List<Integer>> triangle) {
         int n = triangle.size();
@@ -12,6 +14,7 @@ public class MinimumTotal_dp_version2 {
                 dp[j] = Math.min(dp[j],dp[j + 1]) + triangle.get(i).get(j);
             }
         }
+
         return dp[0];
     }
 }
