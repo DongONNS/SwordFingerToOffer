@@ -1,6 +1,6 @@
 package edu.csu.swordFingerOffer;
 
-public class CutingRope {
+public class CuttingRope {
     public int cuttingRope(int n) {
         int[] dp = new int[n + 1];
         for (int i = 2; i <= n; i++) {
