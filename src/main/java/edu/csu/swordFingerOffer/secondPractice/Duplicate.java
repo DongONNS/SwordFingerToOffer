@@ -1,4 +1,4 @@
-package edu.csu.swordFingerOffer;
+package edu.csu.swordFingerOffer.secondPractice;
 
 /**
  * 判断数组nums中有没有重复元素
@@ -15,6 +15,7 @@ public class Duplicate {
             }
             swap(nums,i,nums[i]);
         }
+        return false;
     }
 
     public void swap(int[] arr,int i,int j){
