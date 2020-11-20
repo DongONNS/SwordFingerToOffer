@@ -25,6 +25,9 @@ public class GetLeastNumbers_Version2 {
         int low = 0,high = nums.length - 1;
         while(low < high){
             int j = partition(nums,low,high);
+            if (j == k) break;
+            if (j > k) high = j - 1;
+            else low = j + 1;
         }
     }
 
