@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/TreeLinkNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/secondPractice/GetNext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/secondPractice/FindPath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,7 +77,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -292,7 +291,8 @@
       <workItem from="1607174390672" duration="1288000" />
       <workItem from="1607221379135" duration="17000" />
       <workItem from="1607268563324" duration="789000" />
-      <workItem from="1607346700167" duration="242000" />
+      <workItem from="1607346700167" duration="541000" />
+      <workItem from="1607440585366" duration="1247000" />
     </task>
     <servers />
   </component>
