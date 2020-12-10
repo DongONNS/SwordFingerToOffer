@@ -2,10 +2,10 @@ package edu.csu.swordFingerOffer.secondPractice;
 
 import edu.csu.TreeNode;
 
-public class Height {
+public class IsBalanced {
     private boolean isBalanced = true;
 
-    public boolean IsBalanced_Solution(TreeNode root) {
+    public boolean isBalanced(TreeNode root) {
         height(root);
         return isBalanced;
     }
