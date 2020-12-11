@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/secondPractice/LowestCommonAncestorVersionII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -294,7 +293,7 @@
       <workItem from="1607346700167" duration="541000" />
       <workItem from="1607440585366" duration="2517000" />
       <workItem from="1607527599172" duration="1778000" />
-      <workItem from="1607614256126" duration="1977000" />
+      <workItem from="1607614256126" duration="3215000" />
     </task>
     <servers />
   </component>
