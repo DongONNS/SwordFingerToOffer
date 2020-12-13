@@ -65,7 +65,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="F:/旷视科技/ai-park/ai-park-mainline1.1_cityhall_temperature_ha/ai-park-mainline1.1_cityhall_temperature_ha" />
+    <property name="last_opened_file_path" value="F:/旷视科技/实习/goods" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -76,7 +76,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -294,6 +294,8 @@
       <workItem from="1607440585366" duration="2517000" />
       <workItem from="1607527599172" duration="1778000" />
       <workItem from="1607614256126" duration="3215000" />
+      <workItem from="1607699086109" duration="4110000" />
+      <workItem from="1607845223070" duration="4000" />
     </task>
     <servers />
   </component>
