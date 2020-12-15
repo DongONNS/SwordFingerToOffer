@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0d3f3765-fd4b-4670-befd-2ddc607ac57a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/secondPractice/MinNumberInRotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/csu/swordFingerOffer/secondPractice/MinNumberInRotateArray.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -303,7 +302,7 @@
       <workItem from="1607699086109" duration="4110000" />
       <workItem from="1607845223070" duration="4000" />
       <workItem from="1607872578995" duration="443000" />
-      <workItem from="1607956297089" duration="2504000" />
+      <workItem from="1607956297089" duration="3535000" />
     </task>
     <servers />
   </component>
