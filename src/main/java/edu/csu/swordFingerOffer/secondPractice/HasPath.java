@@ -25,7 +25,7 @@ public class HasPath {
 
     private boolean backtracking(char[][] matrix,char[] str,boolean[][] marked,int len,int row,int col){
         if (len == str.length) return true;
-        if (row < 0 || row >= rows || col < 0 || col >= rows ||matrix[row][col] != str[len] || marked[row][col]){
+        if (row < 0 || row >= rows || col < 0 || col >= cols ||matrix[row][col] != str[len] || marked[row][col]){
             return false;
         }
 
@@ -42,17 +42,14 @@ public class HasPath {
     }
 
     /**
-     * 将一维的字符数组转换为二维字符数组
-     * @param array
-     * @return
+     * 测试hasPath方法
+     * @param args
      */
-    private char[][] buildMatrix(char[] array){
-        char[][] matrix = new char[rows][cols];
-        for (int i = 0,index = 0;i < rows;i++){
-            for (int j = 0;j < cols;j++){
-                matrix[i][j] = array[index++];
-            }
-        }
-        return matrix;
+    public static void main(String[] args) {
+        HasPath solution = new HasPath();
+        char[] array = {'A','B','C','E','S','F','C','S','A','D','E','E'};
+        char[] str = {'S','E','E'};
+        boolean res = solution.hasPath(array, 3, 4, str);
+        System.out.println(res ? "含有该执行路径":"不含该执行路径");
     }
 }
