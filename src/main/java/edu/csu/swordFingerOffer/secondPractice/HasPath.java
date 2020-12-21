@@ -1,7 +1,8 @@
 package edu.csu.swordFingerOffer.secondPractice;
 
 public class HasPath {
-    private final int[][] directions = {{1,0},{0,1},{-1,0},{0,-1}};
+
+    private final int[][] directions = {{0,-1},{0,1},{-1,0},{1,0}};
     private int rows;
     private int cols;
 
@@ -39,6 +40,21 @@ public class HasPath {
 
         marked[row][col] = false;
         return false;
+    }
+
+    /**
+     * 将一维的字符数组转换为二维字符数组
+     * @param array
+     * @return
+     */
+    private char[][] buildMatrix(char[] array) {
+        char[][] matrix = new char[rows][cols];
+        for (int i = 0, index = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
+                matrix[i][j] = array[index++];
+            }
+        }
+        return matrix;
     }
 
     /**
