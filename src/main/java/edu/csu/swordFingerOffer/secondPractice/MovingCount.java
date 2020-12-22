@@ -1,46 +1,61 @@
 package edu.csu.swordFingerOffer.secondPractice;
 
 public class MovingCount {
-    private static final int[][] next = {{0, -1}, {0, 1}, {-1, 0}, {1, 0}};
-    private int cnt = 0;
+    private int[][] directions = {{-1,0},{1,0},{0,-1},{0,1}};
     private int rows;
     private int cols;
+    private int[][] digitsSum;
+    private int cnt = 0;
     private int threshold;
-    private int[][] digitSum;
 
-    public int movingCount(int threshold, int rows, int cols) {
+    /**
+     * 计算数位和小于threshold的格子数量
+     * @param threshold
+     * @param rows
+     * @param cols
+     * @return
+     */
+    public int movingCount(int threshold, int rows, int cols){
         this.rows = rows;
         this.cols = cols;
+        this.cnt = 0;
         this.threshold = threshold;
-        initDigitSum();
+        initDigitsSum();
         boolean[][] marked = new boolean[rows][cols];
-        dfs(marked, 0, 0);
+        bfs(marked,0,0);
         return cnt;
     }
 
-    private void dfs(boolean[][] marked, int r, int c) {
-        if (r < 0 || r >= rows || c < 0 || c >= cols || marked[r][c])
+    private void bfs(boolean[][] marked,int r,int c){
+        if(r < 0 || r >= rows || c < 0 || c >= cols || digitsSum[r][c] > threshold || marked[r][c]){
             return;
+        }
+
         marked[r][c] = true;
-        if (this.digitSum[r][c] > this.threshold)
-            return;
         cnt++;
-        for (int[] n : next)
-            dfs(marked, r + n[0], c + n[1]);
+        for(int[] direction : directions){
+            bfs(marked,r + direction[0],c + direction[1]);
+        }
     }
 
-    private void initDigitSum() {
-        int[] digitSumOne = new int[Math.max(rows, cols)];
-        for (int i = 0; i < digitSumOne.length; i++) {
-            int n = i;
-            while (n > 0) {
-                digitSumOne[i] += n % 10;
-                n /= 10;
+    // 初始化i j位置的每个数字
+    private void initDigitsSum(){
+        // 计算单个数字各数位相加之和，用于后面的复用
+        int[] digitsSumOne = new int[Math.max(rows,cols)];
+        for(int i = 0;i < digitsSumOne.length;i++){
+            int temp = i;
+            while(temp > 0){
+                digitsSumOne[i] += (temp % 10);
+                temp /= 10;
             }
         }
-        this.digitSum = new int[rows][cols];
-        for (int i = 0; i < this.rows; i++)
-            for (int j = 0; j < this.cols; j++)
-                this.digitSum[i][j] = digitSumOne[i] + digitSumOne[j];
+
+        this.digitsSum = new int[rows][cols];
+        for(int i = 0;i < rows;i++){
+            for(int j = 0;j < cols;j++){
+                this.digitsSum[i][j] = digitsSumOne[i] + digitsSumOne[j];
+            }
+        }
     }
 }
+
