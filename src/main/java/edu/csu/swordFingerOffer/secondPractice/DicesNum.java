@@ -12,7 +12,7 @@ public class DicesNum {
         int pointNum = face * n;
 
         // dp[i][j] 表示前i个骰子组成数j的组合数
-        int[][] dp = new int[n + 1][pointNum + 1];
+        long[][] dp = new long[n + 1][pointNum + 1];
 
         for(int i = 1;i <= face;i++){
             dp[1][i] = 1;
@@ -29,7 +29,8 @@ public class DicesNum {
         double sumCom = Math.pow(6,n);
         List<Map.Entry<Integer,Double>> res = new ArrayList();
 
-        for(int i = 1;i <= pointNum;i++){
+        // 这里的数据从n开始，因为n个骰子组成的数不可能比n这个数字还要小
+        for(int i = n;i <= pointNum;i++){
             res.add(new AbstractMap.SimpleEntry(i,dp[n][i]/sumCom));
         }
         return res;
