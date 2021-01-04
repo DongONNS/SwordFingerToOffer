@@ -3,6 +3,13 @@ package edu.csu.swordFingerOffer.secondPractice;
 // 数字的形式为0123456789101112131415......，求第index位的数字
 public class GetDigitAtIndex {
 
+    public static void main(String[] args) {
+        GetDigitAtIndex resolution = new GetDigitAtIndex();
+        int digitAtIndex = resolution.getDigitAtIndex(12);
+        System.out.println(digitAtIndex);
+
+    }
+
     public int getDigitAtIndex(int index) {
         if (index < 0)
             return -1;
