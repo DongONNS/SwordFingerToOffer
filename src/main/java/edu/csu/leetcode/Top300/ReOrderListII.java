@@ -17,7 +17,7 @@ public class ReOrderListII {
 
         // 分割链表，并将链表后半段逆序
         middleNode.next = null;
-        ListNode l2 = reverseList(l2);
+        l2 = reverseList(l2);
 
         // 合并两段链表
         mergeList(l1,l2);
