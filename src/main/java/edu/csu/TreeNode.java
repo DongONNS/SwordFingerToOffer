@@ -7,4 +7,10 @@ public class TreeNode {
     public TreeNode(int val){
         this.val = val;
     }
+
+    public static void main(String[] args) {
+
+    }
+
+
 }
