@@ -26,4 +26,21 @@ public class insertionSortList {
         }
         return dummyHead.next;
     }
+
+    public static void main(String[] args) {
+        String deviceId = synthesisDeviceId("19");
+        System.out.println(deviceId);
+    }
+
+    protected static String synthesisDeviceId(String rawId){
+        Integer len = 5;
+        // 此处默认的是设备号小于8位，一个园区不存在上百万台设备
+        String deviceId = rawId;
+        String prefix = "110112000213218";
+        for (int i = 0;i < Integer.valueOf(len - rawId.length());i++){
+            deviceId = "0" + deviceId;
+        }
+        deviceId = prefix + deviceId;
+        return deviceId;
+    }
 }
