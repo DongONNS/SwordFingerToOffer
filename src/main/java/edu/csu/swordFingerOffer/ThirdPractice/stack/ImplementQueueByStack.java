@@ -2,7 +2,7 @@ package edu.csu.swordFingerOffer.ThirdPractice.stack;
 
 import java.util.Stack;
 
-public class ImplementStack {
+public class ImplementQueueByStack {
     Stack<Integer> stack1 = new Stack<Integer>();
     Stack<Integer> stack2 = new Stack<Integer>();
 
