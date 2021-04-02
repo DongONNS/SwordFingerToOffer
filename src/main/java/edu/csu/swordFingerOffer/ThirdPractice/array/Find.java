@@ -1,4 +1,4 @@
-package edu.csu.swordFingerOffer.ThirdPractice;
+package edu.csu.swordFingerOffer.ThirdPractice.array;
 
 public class Find {
     public boolean Find(int target, int [][] array) {

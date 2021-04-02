@@ -1,4 +1,4 @@
-package edu.csu.swordFingerOffer.ThirdPractice;
+package edu.csu.swordFingerOffer.ThirdPractice.list;
 
 import edu.csu.ListNode;
 

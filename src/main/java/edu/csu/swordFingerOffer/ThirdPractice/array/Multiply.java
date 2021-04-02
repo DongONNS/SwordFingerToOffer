@@ -1,4 +1,4 @@
-package edu.csu.swordFingerOffer.ThirdPractice;
+package edu.csu.swordFingerOffer.ThirdPractice.array;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package edu.csu.swordFingerOffer.ThirdPractice;
+package edu.csu.swordFingerOffer.ThirdPractice.string;
 
 public class ReplaceSpace {
     public static String replaceSpace (String s) {
