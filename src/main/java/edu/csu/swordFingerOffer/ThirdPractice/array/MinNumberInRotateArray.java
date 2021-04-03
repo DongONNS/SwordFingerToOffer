@@ -9,6 +9,7 @@ public class MinNumberInRotateArray {
 
         //二分查找
         int left = 0,right = array.length - 1;
+        // 此处写成mid = left是因为当[left,right]本身就是有序数组时，可以直接返回最小的第一个数字
         int mid = left;
         while(array[left] >= array[right]){
             if (right - left == 1){
@@ -23,10 +24,9 @@ public class MinNumberInRotateArray {
                 return orderSearch(array,left,right);
             }
 
-
             if (array[mid] >= array[left]){
                 left = mid;
-            }else if (array[mid] <= array[right]){
+            }else {
                 right = mid;
             }
         }

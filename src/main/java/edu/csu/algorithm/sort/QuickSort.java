@@ -54,7 +54,7 @@ public class QuickSort {
         int j = right;
 
         while(true){
-            // 想右遍历，找到第一个大于cmp的值
+            // 向右遍历，找到第一个大于cmp的值
             while(i <= j && arr[i] <= cmp)
                 i++;
 
