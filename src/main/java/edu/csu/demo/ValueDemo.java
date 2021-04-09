@@ -13,8 +13,15 @@ public class ValueDemo {
     }
 
     public static void main(String[] args) {
-        ValueDemo value = new ValueDemo();
-        value.method(0);
-        value.print();
+//        ValueDemo value = new ValueDemo();
+//        value.method(0);
+//        value.print();
+
+        String remark = "";
+        if (remark != null){
+            System.out.println("remark不为空");
+        }
+        Integer res = Integer.valueOf(remark);
+        System.out.println(res);
     }
 }
