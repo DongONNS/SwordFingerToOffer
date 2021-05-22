@@ -9,18 +9,23 @@ package edu.csu.algorithm.sort;
 数组[1,2,...,n]和数组[n,n-1,...1,]使用快速排序哪个快些
  */
 
+import java.util.Arrays;
+
 public class QuickSort {
     public static void main(String[] args) {
-        int[] arr = new int[10000];
-        int[] arr_reverse = new int[10000];
+//        int[] arr = new int[10000];
+//        int[] arr_reverse = new int[10000];
+//
+//        for(int i = 0;i < 10000;i++){
+//            arr[i] = i;
+//            arr_reverse[i] = 10000 - i;
+//        }
 
-        for(int i = 0;i < 10000;i++){
-            arr[i] = i;
-            arr_reverse[i] = 10000 - i;
-        }
-        quickSort(arr);
+        int[] arr = {3,2,5,8,4,0};
+        int[] res = quickSort(arr);
+        System.out.println(Arrays.toString(res));
 
-        quickSort(arr_reverse);
+//        quickSort(arr_reverse);
 
     }
 
@@ -69,8 +74,7 @@ public class QuickSort {
             swap(arr,i,j);
         }
         // 交换两个元素的位置，使得左边元素不大于cmp,右边元素不小于cmp;
-        arr[left] = arr[j];
-        arr[j] = cmp;
+        swap(arr,left,j);
 
         return j;
     }

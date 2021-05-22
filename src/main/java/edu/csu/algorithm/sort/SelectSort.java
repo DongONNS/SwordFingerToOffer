@@ -8,8 +8,16 @@ package edu.csu.algorithm.sort;
 是否原地排序：是
  */
 
+import java.util.Arrays;
+
 public class SelectSort {
-    public int[] selectSort(int[] arr){
+    public static void main(String[] args) {
+        int[] arr = {7,6,5,4,3,2,1};
+        int[] res = selectSort(arr);
+        System.out.println("选择排序的结果为: " + Arrays.toString(res));
+    }
+
+    public static int[] selectSort(int[] arr){
         // 非空判断
         if(arr == null) return null;
 
@@ -25,13 +33,13 @@ public class SelectSort {
                 if(arr[min] > arr[j])
                     min = j;
             }
-
+            // 每次遍历的目的就是为了将最小的元素排到剩余元素的最前面
             swap(arr,i,min);
         }
         return arr;
     }
 
-    private void swap(int[] arr,int i,int j){
+    private static void swap(int[] arr,int i,int j){
         int temp = arr[i];
         arr[i] = arr[j];
         arr[j] = temp;

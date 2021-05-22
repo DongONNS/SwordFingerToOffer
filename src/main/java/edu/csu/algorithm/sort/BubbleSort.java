@@ -7,36 +7,35 @@ package edu.csu.algorithm.sort;
 是否原地排序：是
  */
 
+import java.util.Arrays;
+
 public class BubbleSort {
-    public int[] bubbleSort(int[] arr){
-        // 非空判断
-        if(arr == null || arr.length < 2)
-            return null;
 
+    public static void main(String[] args) {
+        int[] src = {7,6,5,4,3,2,1};
+        int[] res = bubbleSort(src);
+        System.out.println(Arrays.toString(res));
+    }
+
+    public static int[] bubbleSort(int[] arr) {
+        if (arr == null || arr.length < 2) {
+            return arr;
+        }
         int n = arr.length;
-
-        // 总共需要n - 1轮循环
-        for(int i = 0;i < n;i++){
+        for (int i = 0; i < n; i++) {
             boolean flag = true;
-
-            // 如果当前位置元素大于后一位的数字，那么就将其进行交换
-            for(int j = 0;j < n - 1 - i;j++){
-                if(arr[j] > arr[j + 1])
+            for (int j = 0; j < n -i - 1; j++) {
+                if (arr[j + 1] < arr[j]) {
                     flag = false;
-                    swap(arr,i,j);
+                    int t = arr[j];
+                    arr[j] = arr[j+1];
+                    arr[j+1] = t;
+                }
             }
-
-            // 一趟下来是否发生交换,如果没有发生交换，那说明就是所有的都有序了
-            // 直接跳出循环
+            //一趟下来是否发生位置交换
             if(flag)
                 break;
         }
         return arr;
-    }
-
-    private void swap(int[] arr,int i,int j){
-        int temp = arr[i];
-        arr[i] = arr[j];
-        arr[j] = temp;
     }
 }
