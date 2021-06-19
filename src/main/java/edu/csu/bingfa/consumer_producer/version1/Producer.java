@@ -9,7 +9,7 @@ public class Producer extends Thread {
 
     public Producer(MessageQueue messageQueue,int seq){
         super("Producer_" + seq);
-        this.messageQueue = new MessageQueue();
+        this.messageQueue = messageQueue;
     }
 
     public void run(){
