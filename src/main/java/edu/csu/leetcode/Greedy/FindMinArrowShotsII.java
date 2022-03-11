@@ -1,7 +1,5 @@
 package edu.csu.leetcode.Greedy;
 
-import jdk.internal.org.objectweb.asm.tree.MultiANewArrayInsnNode;
-
 import java.util.Arrays;
 import java.util.Comparator;
 
