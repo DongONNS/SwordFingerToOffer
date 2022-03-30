@@ -1,7 +1,5 @@
 package edu.csu.Singleton;
 
-import com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ;
-
 public class DoubleCheckLock {
     // volatile用于防止重定向排序
     private volatile static DoubleCheckLock instance = null;

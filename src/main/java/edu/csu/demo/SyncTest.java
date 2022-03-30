@@ -1,7 +1,5 @@
 package edu.csu.demo;
 
-import com.sun.corba.se.impl.orbutil.concurrent.Sync;
-
 public class SyncTest {
 
     public static synchronized void method1(){
