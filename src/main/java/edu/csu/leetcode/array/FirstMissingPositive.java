@@ -1,9 +1,5 @@
 package edu.csu.leetcode.array;
 
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.HashSet;
-
 public class FirstMissingPositive {
     public static void main(String[] args) {
         int[] src = {1, 2, 0};
@@ -16,25 +12,23 @@ public class FirstMissingPositive {
         if (nums == null || nums.length == 0) {
             return 1;
         }
-        int max = 0;
-        for (int j : nums) {
-            max = Math.max(j, max);
+        int len = nums.length;
+        for (int i = 0; i < len; i++) {
+            while (nums[i] > 0 && nums[i] <= len && nums[i] != nums[nums[i] - 1]) {
+                swap(nums, i, nums[i] - 1);
+            }
         }
-        if (max == 0) {
-            return 1;
+        for (int i = 0; i < len; i++) {
+            if (nums[i] != i + 1) {
+                return i + 1;
+            }
         }
+        return len + 1;
+    }
 
-        HashSet<Integer> set = new HashSet<>();
-        for (int num : nums) {
-            if (num > 0) {
-                set.add(num);
-            }
-        }
-        for (int i = 1; i <= max; i++) {
-            if (!set.contains(i)) {
-                return i;
-            }
-        }
-        return max + 1;
+    private void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
     }
 }
